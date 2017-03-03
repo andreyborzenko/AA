@@ -1,0 +1,50 @@
+<resources>
+
+						<string name="language"> 
+ 言語 				</string> 
+ 
+
+						<string name="evaluate"> 
+ アプリケーションの評価		</string> 
+ 
+
+
+ 
+
+						<string name="typeToSearch"> 
+ サーチ 					</string>
+
+							<string name="other">
+私たちの他のアプリ： 				</string>
+
+
+
+						<string name="symptoms">
+症状 </string>
+
+								<string name="mental">
+精神障害 				</string>
+
+								<string name="emotions">
+感情				</string>
+
+										<string name="syndromes">
+ 症候群				</string>
+
+
+											<string name="partygames">
+パーティーゲーム				</string>
+
+										<string name="emusic">
+電子音楽のジャンル				</string>
+
+										<string name="memes">
+インターネットミーム				</string>
+
+
+
+
+
+
+
+</resources>

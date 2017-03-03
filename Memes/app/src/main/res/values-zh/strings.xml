@@ -1,0 +1,49 @@
+<resources>
+
+						<string name="language"> 
+ 語言 				</string> 
+ 
+
+						<string name="evaluate"> 
+ 評估我們的應用程序		</string> 
+ 
+
+
+ 
+
+						<string name="typeToSearch"> 
+ 搜索					</string>
+
+								<string name="other">
+我們的其他應用：				</string>
+
+
+
+						<string name="symptoms">
+症狀 </string>
+
+								<string name="mental">
+精神錯亂 				</string>
+
+								<string name="emotions">
+ 情緒				</string>
+
+										<string name="syndromes">
+ 綜合徵				</string>
+
+											<string name="partygames">
+黨遊戲				</string>
+
+										<string name="emusic">
+電子音樂流派				</string>
+
+										<string name="memes">
+互聯網單元				</string>
+
+
+
+
+
+
+
+</resources>

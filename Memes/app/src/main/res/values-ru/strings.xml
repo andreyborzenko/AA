@@ -1,0 +1,49 @@
+<resources>
+
+						<string name="language"> 
+ Язык 				</string> 
+ 
+
+						<string name="evaluate"> 
+ Оцените наше приложение		</string> 
+
+ 
+
+						<string name="typeToSearch"> 
+ Поиск					</string>
+
+								<string name="other">
+Наши другие приложения:				</string>
+
+
+
+						<string name="symptoms">
+Симптомы </string>
+
+
+								<string name="mental">
+ Расст- ройства Психики 				</string>
+
+								<string name="emotions">
+ Эмоции				</string>
+
+										<string name="syndromes">
+ Синдромы				</string>
+
+
+											<string name="partygames">
+Игры для вечеринок				</string>
+
+										<string name="emusic">
+Жанры электронной музыки				</string>
+
+										<string name="memes">
+Интернет Мемы				</string>
+
+
+
+
+
+
+
+</resources>

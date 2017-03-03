@@ -1,0 +1,46 @@
+
+<resources>
+
+						<string name="language"> 
+ Language 				</string> 
+ 
+
+						<string name="evaluate"> 
+ Evaluate our app 		</string> 
+ 
+
+
+ 
+
+						<string name="typeToSearch"> 
+ Search 				</string>
+
+
+							<string name="other">
+ Our other apps: 				</string>
+
+
+						<string name="symptoms">
+Symptoms </string>
+
+							<string name="mental">
+ Mental Disorders 				</string>
+
+								<string name="emotions">
+ Emotions				</string>
+
+									<string name="syndromes">
+ Syndromes				</string>
+
+										<string name="partygames">
+ Party Games				</string>
+
+										<string name="emusic">
+ Electronic Music Genres				</string>
+
+										<string name="memes">
+Internet Memes				</string>
+
+
+
+</resources>

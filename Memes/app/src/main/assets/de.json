@@ -1,0 +1,310 @@
+[
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Beanie",
+    "file": "de_beanie_babies",
+    "en_url": "https://en.wikipedia.org/wiki/Beanie_Babies",
+    "h1": "Beanie"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Shake_Weight",
+    "file": "de_shake_weight",
+    "en_url": "https://en.wikipedia.org/wiki/Shake_Weight",
+    "h1": "Shake Weight"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Xtranormal",
+    "file": "de_xtranormal",
+    "en_url": "https://en.wikipedia.org/wiki/Xtranormal",
+    "h1": "Xtranormal"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Badger_Badger_Badger",
+    "file": "de_badger_badger_badger",
+    "en_url": "https://en.wikipedia.org/wiki/Badger_Badger_Badger",
+    "h1": "Badger Badger Badger"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Happy_Tree_Friends",
+    "file": "de_happy_tree_friends",
+    "en_url": "https://en.wikipedia.org/wiki/Happy_Tree_Friends",
+    "h1": "Happy Tree Friends"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Homestar_Runner",
+    "file": "de_homestar_runner",
+    "en_url": "https://en.wikipedia.org/wiki/Homestar_Runner",
+    "h1": "Homestar Runner"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Joe_Cartoon",
+    "file": "de_joe_cartoon",
+    "en_url": "https://en.wikipedia.org/wiki/Joe_Cartoon",
+    "h1": "Joe Cartoon"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Loituma#Ievan_Polkka",
+    "file": "de_loituma_girl",
+    "en_url": "https://en.wikipedia.org/wiki/Loituma_Girl",
+    "h1": "Loituma"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Nyan_Cat",
+    "file": "de_nyan_cat",
+    "en_url": "https://en.wikipedia.org/wiki/Nyan_Cat",
+    "h1": "Nyan Cat"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Polandball",
+    "file": "de_polandball",
+    "en_url": "https://en.wikipedia.org/wiki/Polandball",
+    "h1": "Polandball"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Rage_Comic",
+    "file": "de_rage_comics",
+    "en_url": "https://en.wikipedia.org/wiki/Rage_comics",
+    "h1": "Rage Comic"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Vaporwave",
+    "file": "de_simpsonwave",
+    "en_url": "https://en.wikipedia.org/wiki/Simpsonwave",
+    "h1": "Vaporwave"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Xkcd",
+    "file": "de_xkcd",
+    "en_url": "https://en.wikipedia.org/wiki/Xkcd",
+    "h1": "Xkcd"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Cinnamon_Challenge",
+    "file": "de_cinnamon_challenge",
+    "en_url": "https://en.wikipedia.org/wiki/Cinnamon_challenge",
+    "h1": "Cinnamon Challenge"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Fire_Challenge",
+    "file": "de_fire_challenge",
+    "en_url": "https://en.wikipedia.org/wiki/Fire_challenge",
+    "h1": "Fire Challenge"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/ALS_Ice_Bucket_Challenge",
+    "file": "de_ice_bucket_challenge",
+    "en_url": "https://en.wikipedia.org/wiki/Ice_Bucket_Challenge",
+    "h1": "ALS Ice Bucket Challenge"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Salt_and_Ice_Challenge",
+    "file": "de_salt_and_ice_challenge",
+    "en_url": "https://en.wikipedia.org/wiki/Salt_and_ice_challenge",
+    "h1": "Salt and Ice Challenge"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Hampton,_the_Hampster",
+    "file": "de_hampster_dance",
+    "en_url": "https://en.wikipedia.org/wiki/Hampster_Dance",
+    "h1": "Hampton, the Hampster"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/JK_Wedding_Entrance_Dance",
+    "file": "de_jk_wedding_entrance_dance",
+    "en_url": "https://en.wikipedia.org/wiki/JK_Wedding_Entrance_Dance",
+    "h1": "JK Wedding Entrance Dance"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Techno_Viking",
+    "file": "de_techno_viking",
+    "en_url": "https://en.wikipedia.org/wiki/Techno_Viking",
+    "h1": "Techno Viking"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Bill_Gates",
+    "file": "de_bill_gates",
+    "en_url": "https://en.wikipedia.org/wiki/Bill_Gates",
+    "h1": "Bill Gates"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Leuchtturm_und_Kriegsschiff_(Moderne_Sage)",
+    "file": "de_lighthouse_and_naval_vessel_urban_legend",
+    "en_url": "https://en.wikipedia.org/wiki/Lighthouse_and_naval_vessel_urban_legend",
+    "h1": "Leuchtturm und Kriegsschiff (Moderne Sage)"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Make_Money_Fast",
+    "file": "de_make_money_fast",
+    "en_url": "https://en.wikipedia.org/wiki/Make_Money_Fast",
+    "h1": "Make Money Fast"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Neiman_Marcus",
+    "file": "de_neiman_marcus_250_cookie_recipe_story",
+    "en_url": "https://en.wikipedia.org/wiki/Neiman_Marcus_250_cookie_recipe_story",
+    "h1": "Neiman Marcus"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Vorschussbetrug",
+    "file": "de_advance_fee_scam",
+    "en_url": "https://en.wikipedia.org/wiki/Advance-fee_scam",
+    "h1": "Vorschussbetrug"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/LazyTown",
+    "file": "de_lazytown",
+    "en_url": "https://en.wikipedia.org/wiki/LazyTown",
+    "h1": "LazyTown"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon",
+    "file": "de_twitch_plays_pokc3a9mon",
+    "en_url": "https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon",
+    "h1": "Twitch Plays Pokémon"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Erzwungene_Perspektive",
+    "file": "de_baby_mugging",
+    "en_url": "https://en.wikipedia.org/wiki/Baby_mugging",
+    "h1": "Erzwungene Perspektive"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Bert_is_Evil",
+    "file": "de_bert_is_evil",
+    "en_url": "https://en.wikipedia.org/wiki/Bert_is_Evil",
+    "h1": "Bert is Evil"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Kim_Kardashian",
+    "file": "de_kim_kardashian",
+    "en_url": "https://en.wikipedia.org/wiki/Kim_Kardashian",
+    "h1": "Kim Kardashian"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Doge_(Netzkultur)",
+    "file": "de_doge_meme",
+    "en_url": "https://en.wikipedia.org/wiki/Doge_(meme)",
+    "h1": "Doge (Netzkultur)"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Goatse",
+    "file": "de_goatsecx",
+    "en_url": "https://en.wikipedia.org/wiki/Goatsecx",
+    "h1": "Goatse"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Grumpy_Cat",
+    "file": "de_grumpy_cat",
+    "en_url": "https://en.wikipedia.org/wiki/Grumpy_Cat",
+    "h1": "Grumpy Cat"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Keep_Calm_and_Carry_On",
+    "file": "de_keep_calm_and_carry_on",
+    "en_url": "https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On",
+    "h1": "Keep Calm and Carry On"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Lolcat",
+    "file": "de_lolcat",
+    "en_url": "https://en.wikipedia.org/wiki/Lolcat",
+    "h1": "Lolcat"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/McKayla_Maroney",
+    "file": "de_mckayla_maroney",
+    "en_url": "https://en.wikipedia.org/wiki/McKayla_Maroney",
+    "h1": "McKayla Maroney"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_(Netzjargon)#O",
+    "file": "de_o_rly3f",
+    "en_url": "https://en.wikipedia.org/wiki/O_RLY%3F",
+    "h1": "Liste von Abkürzungen (Netzjargon)"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Pepe_der_Frosch",
+    "file": "de_pepe_the_frog",
+    "en_url": "https://en.wikipedia.org/wiki/Pepe_the_Frog",
+    "h1": "Pepe der Frosch"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Miss_Me_Yet%3F",
+    "file": "de_miss_me_yet3f",
+    "en_url": "https://en.wikipedia.org/wiki/Miss_Me_Yet%3F",
+    "h1": "Miss Me Yet?"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Cat_Content",
+    "file": "de_cats_on_the_internet",
+    "en_url": "https://en.wikipedia.org/wiki/Cats_on_the_Internet",
+    "h1": "Cat Content"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Chuck_Norris_Facts",
+    "file": "de_chuck_norris_facts",
+    "en_url": "https://en.wikipedia.org/wiki/Chuck_Norris_facts",
+    "h1": "Chuck Norris Facts"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/One_red_paperclip",
+    "file": "de_one_red_paperclip",
+    "en_url": "https://en.wikipedia.org/wiki/One_red_paperclip",
+    "h1": "One red paperclip"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Slender_Man",
+    "file": "de_slender_man",
+    "en_url": "https://en.wikipedia.org/wiki/Slender_Man",
+    "h1": "Slender Man"
+  },
+  {
+    "lang": "de",
+    "url": "https://de.wikipedia.org/wiki/Vuvuzela",
+    "file": "de_vuvuzela",
+    "en_url": "https://en.wikipedia.org/wiki/Vuvuzela",
+    "h1": "Vuvuzela"
+  }
+]
