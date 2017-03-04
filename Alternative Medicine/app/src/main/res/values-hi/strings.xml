@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="language">
+भाषा </string>
+
+    <string name="evaluate">
+आवेदन का मूल्यांकन </string>
+
+
+<string name="typeToSearch">
+खोज </string>
+
+							<string name="other">
+हमारे अन्य क्षुधा				</string>
+
+
+						<string name="symptoms">
+लक्षण 				</string>
+
+							<string name="mental">
+मानसिक विकार 				</string>
+
+								<string name="emotions">
+भावनाएँ				</string>
+
+									<string name="syndromes">
+ सिंड्रोम				</string>
+
+										<string name="almed">
+वैकल्पिक चिकित्सा				</string>
+
+
+
+</resources>

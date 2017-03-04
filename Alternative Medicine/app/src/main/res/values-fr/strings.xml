@@ -1,0 +1,39 @@
+
+<resources>
+						<string name="language"> 
+ La langue 				</string> 
+ 
+
+						<string name="evaluate"> 
+ Évaluer notre application 		</string> 
+ 
+
+
+ 
+
+						<string name="typeToSearch"> 
+ Chercher 					</string>
+
+								<string name="other">
+Nos autres applications: 				</string>
+
+
+
+						<string name="symptoms">
+Symptômes </string>
+
+
+								<string name="mental">
+Les troubles mentaux 				</string>
+
+								<string name="emotions">
+ Émotions				</string>
+
+										<string name="syndromes">
+ Syndromes				</string>
+
+
+
+											<string name="almed">
+Médecine alternative				</string>
+</resources>

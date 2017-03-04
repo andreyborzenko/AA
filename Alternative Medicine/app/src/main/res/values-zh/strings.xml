@@ -1,0 +1,37 @@
+<resources>
+
+						<string name="language"> 
+ 語言 				</string> 
+ 
+
+						<string name="evaluate"> 
+ 評估我們的應用程序		</string> 
+ 
+
+
+ 
+
+						<string name="typeToSearch"> 
+ 搜索					</string>
+
+								<string name="other">
+我們的其他應用：				</string>
+
+
+
+						<string name="symptoms">
+症狀 </string>
+
+								<string name="mental">
+精神錯亂 				</string>
+
+								<string name="emotions">
+ 情緒				</string>
+
+										<string name="syndromes">
+ 綜合徵				</string>
+
+
+											<string name="almed">
+替代醫學				</string>
+</resources>

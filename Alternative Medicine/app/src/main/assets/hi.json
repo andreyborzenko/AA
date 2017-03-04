@@ -1,0 +1,408 @@
+[
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%B0",
+    "file": "hi_acupressure",
+    "en_url": "https://en.wikipedia.org/wiki/Acupressure",
+    "h1": "एक्यूप्रेशर"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%AA%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0",
+    "file": "hi_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Acupuncture",
+    "h1": "एक्यूपंक्चर"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%82%E0%A4%A7_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_aromatherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Aromatherapy",
+    "h1": "सुगंध चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%B2%E0%A4%BF%E0%A4%A4_%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%A4%E0%A4%BF%E0%A4%B7",
+    "file": "hi_astrology",
+    "en_url": "https://en.wikipedia.org/wiki/Astrology",
+    "h1": "फलित ज्योतिष"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6",
+    "file": "hi_ayurveda",
+    "en_url": "https://en.wikipedia.org/wiki/Ayurveda",
+    "h1": "आयुर्वेद"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80_%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE",
+    "file": "hi_chinese_pulse_diagnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_pulse_diagnosis",
+    "h1": "नाड़ी परीक्षा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%87%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95",
+    "file": "hi_chiropractic",
+    "en_url": "https://en.wikipedia.org/wiki/Chiropractic",
+    "h1": "काइरोप्रेक्टिक"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%95",
+    "file": "hi_dietary_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Dietary_supplements",
+    "h1": "खाद्य पूरक"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_magnet_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Magnet_therapy",
+    "h1": "चुंबक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%AA%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0",
+    "file": "hi_medical_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Medical_acupuncture",
+    "h1": "एक्यूपंक्चर"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%87%E0%A4%95%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_reiki",
+    "en_url": "https://en.wikipedia.org/wiki/Reiki",
+    "h1": "रेकी चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%AA%E0%A4%B5%E0%A4%BE%E0%A4%B8",
+    "file": "hi_fasting",
+    "en_url": "https://en.wikipedia.org/wiki/Fasting",
+    "h1": "उपवास"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%87%E0%A4%82%E0%A4%97_%E0%A4%B6%E0%A5%81%E0%A4%88",
+    "file": "hi_feng_shui",
+    "en_url": "https://en.wikipedia.org/wiki/Feng_shui",
+    "h1": "फेंग शुई"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%A0%E0%A4%AF%E0%A5%8B%E0%A4%97",
+    "file": "hi_hatha_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Hatha_yoga",
+    "h1": "हठयोग"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%AC%E0%A5%82%E0%A4%9F%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_herbalism",
+    "en_url": "https://en.wikipedia.org/wiki/Herbalism",
+    "h1": "जड़ी-बूटी चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%AC%E0%A5%82%E0%A4%9F%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_herbal_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Herbal_therapy",
+    "h1": "जड़ी-बूटी चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%AC%E0%A5%82%E0%A4%9F%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_herbology",
+    "en_url": "https://en.wikipedia.org/wiki/Herbology",
+    "h1": "जड़ी-बूटी चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%88%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_holistic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_medicine",
+    "h1": "वैकल्पिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%AA%E0%A5%88%E0%A4%A5%E0%A5%80",
+    "file": "hi_homeopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Homeopathy",
+    "h1": "होम्योपैथी"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_home_remedy",
+    "en_url": "https://en.wikipedia.org/wiki/Home_remedy",
+    "h1": "पारम्परिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%B2%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_hydrotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Hydrotherapy",
+    "h1": "जलचिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%A8",
+    "file": "hi_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnosis",
+    "h1": "सम्मोहन"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%AA%E0%A5%88%E0%A4%A5%E0%A5%80",
+    "file": "hi_isopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Isopathy",
+    "h1": "होम्योपैथी"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_light_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Light_therapy",
+    "h1": "रश्मिचिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_magnetic_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Magnetic_healing",
+    "h1": "चुंबक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%A8%E0%A4%BE",
+    "file": "hi_vipassana",
+    "en_url": "https://en.wikipedia.org/wiki/Vipassana",
+    "h1": "विपश्यना"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A4_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_music_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Music_therapy",
+    "h1": "संगीत चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%87%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95",
+    "file": "hi_naprapathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naprapathy",
+    "h1": "काइरोप्रेक्टिक"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_natural_health",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_Health",
+    "h1": "प्राकृतिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_natural_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_therapy",
+    "h1": "प्राकृतिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_naturopathic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathic_medicine",
+    "h1": "प्राकृतिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_nutritional_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_healing",
+    "h1": "प्राकृतिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%95",
+    "file": "hi_nutritional_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_supplements",
+    "h1": "खाद्य पूरक"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_osteopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Osteopathy",
+    "h1": "अस्थिचिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%82%E0%A4%97_%E0%A4%AF%E0%A5%8B%E0%A4%97",
+    "file": "hi_power_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Power_yoga",
+    "h1": "अष्टांग योग"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF_%E0%A4%89%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0",
+    "file": "hi_pranic_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Pranic_healing",
+    "h1": "प्राणशक्ति उपचार"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8%E0%A4%BE",
+    "file": "hi_prayer",
+    "en_url": "https://en.wikipedia.org/wiki/Prayer",
+    "h1": "प्रार्थना"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_siddha_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Siddha_medicine",
+    "h1": "सिद्ध चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%AA%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0",
+    "file": "hi_sonopuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Sonopuncture",
+    "h1": "एक्यूपंक्चर"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A4_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_sound_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Sound_therapy",
+    "h1": "संगीत चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8B%E0%A4%B5%E0%A4%BE_%E0%A4%B0%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%AA%E0%A4%BE",
+    "file": "hi_traditional_tibetan_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Tibetan_medicine",
+    "h1": "सोवा रिग्पा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE_%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF",
+    "file": "hi_unani_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Unani_medicine",
+    "h1": "यूनानी चिकित्सा पद्धति"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_urine_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Urine_therapy",
+    "h1": "स्वमूत्र चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%B2%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_water_cure_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Water_cure_(therapy)",
+    "h1": "जलचिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C_%E0%A4%AF%E0%A5%8B%E0%A4%97",
+    "file": "hi_rc4ja_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/R%C4%81ja_yoga",
+    "h1": "राज योग"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%82%E0%A4%97_%E0%A4%AF%E0%A5%8B%E0%A4%97",
+    "file": "hi_ashtanga_vinyasa_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Ashtanga_vinyasa_yoga",
+    "h1": "अष्टांग योग"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE_%E0%A4%AF%E0%A5%8B%E0%A4%97",
+    "file": "hi_bikram_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Bikram_yoga",
+    "h1": "विक्रम योग"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%A1%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A5%80_%E0%A4%AF%E0%A5%8B%E0%A4%97",
+    "file": "hi_kundalini_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Kundalini_yoga",
+    "h1": "कुंडलिनी योग"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+    "file": "hi_tantric_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Tantric_yoga",
+    "h1": "तन्त्र"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A5%80%E0%A4%A8_%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8",
+    "file": "hi_ancient_greek_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Greek_medicine",
+    "h1": "प्राचीन यूनानी चिकित्साविज्ञान"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE_%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF",
+    "file": "hi_unani",
+    "en_url": "https://en.wikipedia.org/wiki/Unani",
+    "h1": "यूनानी चिकित्सा पद्धति"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%88%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "h1": "वैकल्पिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%83%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BF_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8",
+    "file": "hi_ethnomedicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ethnomedicine",
+    "h1": "नृजाति चिकित्साविज्ञान"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF_%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE",
+    "file": "hi_health_care",
+    "en_url": "https://en.wikipedia.org/wiki/Health_care",
+    "h1": "स्वास्थ्य सेवा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_naturopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathy",
+    "h1": "प्राकृतिक चिकित्सा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%93%E0%A4%9D%E0%A4%BE",
+    "file": "hi_shamanism",
+    "en_url": "https://en.wikipedia.org/wiki/Shamanism",
+    "h1": "ओझा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A5%80%E0%A4%AA%E0%A4%95_%E0%A4%9A%E0%A5%8B%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A4%BE",
+    "file": "hi_quantum_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Quantum_healing",
+    "h1": "दीपक चोपड़ा"
+  },
+  {
+    "lang": "hi",
+    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%88%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%95_%E0%A4%9A%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%BE",
+    "file": "hi_alternative_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_healing",
+    "h1": "वैकल्पिक चिकित्सा"
+  }
+]

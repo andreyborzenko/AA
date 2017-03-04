@@ -1,0 +1,583 @@
+[
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%92%88%E7%81%B8",
+    "file": "zh_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Acupuncture",
+    "h1": "针灸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E6%8A%80%E5%B7%A7",
+    "file": "zh_alexander_technique",
+    "en_url": "https://en.wikipedia.org/wiki/Alexander_technique",
+    "h1": "亞歷山大技巧"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%8A%B3%E9%A6%99%E7%99%82%E6%B3%95",
+    "file": "zh_aromatherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Aromatherapy",
+    "h1": "芳香療法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8D%A0%E6%98%9F%E6%9C%AF",
+    "file": "zh_astrology",
+    "en_url": "https://en.wikipedia.org/wiki/Astrology",
+    "h1": "占星术"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%80%B3%E9%87%9D",
+    "file": "zh_auriculotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Auriculotherapy",
+    "h1": "耳針"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E8%82%B2%E5%90%A0%E9%99%80",
+    "file": "zh_ayurveda",
+    "en_url": "https://en.wikipedia.org/wiki/Ayurveda",
+    "h1": "阿育吠陀"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A3%9F%E7%99%82",
+    "file": "zh_chinese_food_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_food_therapy",
+    "h1": "食療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%AD%A6%E6%9C%AF",
+    "file": "zh_chinese_martial_arts",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_martial_arts",
+    "h1": "中国武术"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8C%BB%E5%AD%A6",
+    "file": "zh_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine",
+    "h1": "中医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%88%87%E8%AF%8A",
+    "file": "zh_chinese_pulse_diagnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_pulse_diagnosis",
+    "h1": "切诊"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%84%8A%E9%AA%A8%E7%A5%9E%E7%B6%93%E9%86%AB%E5%AD%B8",
+    "file": "zh_chiropractic",
+    "en_url": "https://en.wikipedia.org/wiki/Chiropractic",
+    "h1": "脊骨神經醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%88%AE%E7%97%A7",
+    "file": "zh_gua_sha",
+    "en_url": "https://en.wikipedia.org/wiki/Gua_Sha",
+    "h1": "刮痧"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%8B%94%E7%BD%90",
+    "file": "zh_fire_cupping",
+    "en_url": "https://en.wikipedia.org/wiki/Fire_cupping",
+    "h1": "拔罐"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%87%9F%E9%A4%8A%E8%A3%9C%E5%85%85%E5%93%81",
+    "file": "zh_dietary_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Dietary_supplements",
+    "h1": "營養補充品"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%B0%8B%E6%B0%B4%E8%A1%93",
+    "file": "zh_dowsing",
+    "en_url": "https://en.wikipedia.org/wiki/Dowsing",
+    "h1": "尋水術"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%80%B3%E7%87%AD",
+    "file": "zh_ear_candling",
+    "en_url": "https://en.wikipedia.org/wiki/Ear_candling",
+    "h1": "耳燭"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A3%81%E7%99%82",
+    "file": "zh_magnet_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Magnet_therapy",
+    "h1": "磁療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%92%88%E7%81%B8",
+    "file": "zh_medical_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Medical_acupuncture",
+    "h1": "针灸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%81%B5%E6%B0%94%E7%96%97%E6%B3%95",
+    "file": "zh_reiki",
+    "en_url": "https://en.wikipedia.org/wiki/Reiki",
+    "h1": "灵气疗法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B0%94%E5%8A%9F",
+    "file": "zh_qigong",
+    "en_url": "https://en.wikipedia.org/wiki/Qigong",
+    "h1": "气功"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A6%81%E9%A3%9F",
+    "file": "zh_fasting",
+    "en_url": "https://en.wikipedia.org/wiki/Fasting",
+    "h1": "禁食"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A2%A8%E6%B0%B4",
+    "file": "zh_feng_shui",
+    "en_url": "https://en.wikipedia.org/wiki/Feng_shui",
+    "h1": "風水"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%94%E8%A1%8C",
+    "file": "zh_wu_xing",
+    "en_url": "https://en.wikipedia.org/wiki/Wu_Xing",
+    "h1": "五行"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%88%AE%E7%97%A7",
+    "file": "zh_gua_sha",
+    "en_url": "https://en.wikipedia.org/wiki/Gua_sha",
+    "h1": "刮痧"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%AF%83%E9%99%80%E7%91%9C%E4%BC%BD",
+    "file": "zh_hatha_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Hatha_yoga",
+    "h1": "诃陀瑜伽"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E8%97%A5%E9%86%AB%E5%AD%B8",
+    "file": "zh_herbalism",
+    "en_url": "https://en.wikipedia.org/wiki/Herbalism",
+    "h1": "草藥醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E8%97%A5%E9%86%AB%E5%AD%B8",
+    "file": "zh_herbal_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Herbal_therapy",
+    "h1": "草藥醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E8%97%A5%E9%86%AB%E5%AD%B8",
+    "file": "zh_herbology",
+    "en_url": "https://en.wikipedia.org/wiki/Herbology",
+    "h1": "草藥醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%95%B4%E5%85%A8%E8%A7%80",
+    "file": "zh_holistic_living",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_living",
+    "h1": "整全觀"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9B%BF%E4%BB%A3%E5%8C%BB%E5%AD%A6",
+    "file": "zh_holistic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_medicine",
+    "h1": "替代医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A1%BA%E5%8A%BF%E7%96%97%E6%B3%95",
+    "file": "zh_homeopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Homeopathy",
+    "h1": "顺势疗法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BC%A0%E7%BB%9F%E5%8C%BB%E5%AD%A6",
+    "file": "zh_home_remedy",
+    "en_url": "https://en.wikipedia.org/wiki/Home_remedy",
+    "h1": "传统医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B0%B4%E7%99%82",
+    "file": "zh_hydrotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Hydrotherapy",
+    "h1": "水療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0",
+    "file": "zh_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnosis",
+    "h1": "催眠"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A1%BA%E5%8A%BF%E7%96%97%E6%B3%95",
+    "file": "zh_isopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Isopathy",
+    "h1": "顺势疗法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B1%89%E6%96%B9%E5%8C%BB%E5%AD%A6",
+    "file": "zh_kampo",
+    "en_url": "https://en.wikipedia.org/wiki/Kampo",
+    "h1": "日本汉方医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%85%89%E7%85%A7%E6%B2%BB%E7%99%82",
+    "file": "zh_light_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Light_therapy",
+    "h1": "光照治療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A3%81%E7%99%82",
+    "file": "zh_magnetic_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Magnetic_healing",
+    "h1": "磁療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E6%B2%BB%E7%99%82%E5%AD%B8",
+    "file": "zh_manipulative_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Manipulative_therapy",
+    "h1": "操作治療學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%86%A5%E6%83%B3%E7%9A%84%E7%A0%94%E7%A9%B6",
+    "file": "zh_meditation_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Meditation_(alternative_medicine)",
+    "h1": "冥想"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%BB%8F%E7%BB%9C",
+    "file": "zh_meridian_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)",
+    "h1": "经络"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BF%B5_(%E4%BD%9B%E6%95%99)",
+    "file": "zh_mindfulness_buddhism",
+    "en_url": "https://en.wikipedia.org/wiki/Mindfulness_(Buddhism)",
+    "h1": "念 (佛教)"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%A7%80_(%E4%BD%9B%E6%95%99)",
+    "file": "zh_vipassana",
+    "en_url": "https://en.wikipedia.org/wiki/Vipassana",
+    "h1": "觀 (佛教)"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%89%BE%E7%81%B8",
+    "file": "zh_moxibustion",
+    "en_url": "https://en.wikipedia.org/wiki/Moxibustion",
+    "h1": "艾灸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E6%A8%82%E6%B2%BB%E7%99%82",
+    "file": "zh_music_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Music_therapy",
+    "h1": "音樂治療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%84%8A%E9%AA%A8%E7%A5%9E%E7%B6%93%E9%86%AB%E5%AD%B8",
+    "file": "zh_naprapathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naprapathy",
+    "h1": "脊骨神經醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%86%AB%E5%AD%B8",
+    "file": "zh_natural_health",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_Health",
+    "h1": "自然醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%86%AB%E5%AD%B8",
+    "file": "zh_natural_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_therapy",
+    "h1": "自然醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%86%AB%E5%AD%B8",
+    "file": "zh_naturopathic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathic_medicine",
+    "h1": "自然醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%B6%93%E8%AA%9E%E8%A8%80%E8%A6%8F%E5%8A%83",
+    "file": "zh_neuro_linguistic_programming",
+    "en_url": "https://en.wikipedia.org/wiki/Neuro-linguistic_programming",
+    "h1": "神經語言規劃"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%86%AB%E5%AD%B8",
+    "file": "zh_nutritional_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_healing",
+    "h1": "自然醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%87%9F%E9%A4%8A%E8%A3%9C%E5%85%85%E5%93%81",
+    "file": "zh_nutritional_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_supplements",
+    "h1": "營養補充品"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%B5%96%E5%B8%8C",
+    "file": "zh_orgonomy",
+    "en_url": "https://en.wikipedia.org/wiki/Orgonomy",
+    "h1": "威廉·赖希"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%95%B4%E9%AA%A8%E7%99%82%E6%B3%95",
+    "file": "zh_osteopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Osteopathy",
+    "h1": "整骨療法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BD%BC%E6%8B%89%E6%8F%90%E6%96%AF",
+    "file": "zh_pilates",
+    "en_url": "https://en.wikipedia.org/wiki/Pilates",
+    "h1": "彼拉提斯"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A5%B7%E5%91%8A",
+    "file": "zh_prayer",
+    "en_url": "https://en.wikipedia.org/wiki/Prayer",
+    "h1": "祷告"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B0%A3_(%E4%B8%AD%E5%9C%8B)",
+    "file": "zh_qi",
+    "en_url": "https://en.wikipedia.org/wiki/Qi",
+    "h1": "氣 (中國)"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8D%80%E5%9F%9F%E5%8F%8D%E5%B0%84%E7%99%82%E6%B3%95",
+    "file": "zh_reflexology",
+    "en_url": "https://en.wikipedia.org/wiki/Reflexology",
+    "h1": "區域反射療法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%82%89%E9%81%94%E9%86%AB%E5%AD%B8",
+    "file": "zh_siddha_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Siddha_medicine",
+    "h1": "悉達醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%92%88%E7%81%B8",
+    "file": "zh_sonopuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Sonopuncture",
+    "h1": "针灸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E6%A8%82%E6%B2%BB%E7%99%82",
+    "file": "zh_sound_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Sound_therapy",
+    "h1": "音樂治療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8C%BB%E5%AD%A6",
+    "file": "zh_history_of_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/History_of_traditional_Chinese_medicine",
+    "h1": "中医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9F%93%E9%86%AB%E5%AD%B8",
+    "file": "zh_traditional_korean_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Korean_medicine",
+    "h1": "韓醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B1%89%E6%96%B9%E5%8C%BB%E5%AD%A6",
+    "file": "zh_traditional_japanese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Japanese_medicine",
+    "h1": "日本汉方医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%92%99%E9%86%AB%E5%AD%B8",
+    "file": "zh_traditional_mongolian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Mongolian_medicine",
+    "h1": "蒙醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%97%8F%E9%86%AB%E5%AD%B8",
+    "file": "zh_traditional_tibetan_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Tibetan_medicine",
+    "h1": "藏醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%8E%A8%E6%8B%BF",
+    "file": "zh_tui_na",
+    "en_url": "https://en.wikipedia.org/wiki/Tui_na",
+    "h1": "推拿"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%B0%BF%E7%99%82%E6%B3%95",
+    "file": "zh_urine_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Urine_therapy",
+    "h1": "尿療法"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B0%B4%E7%99%82",
+    "file": "zh_water_cure_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Water_cure_(therapy)",
+    "h1": "水療"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%80%9B%E7%89%B9%E7%BE%85%E5%AF%86%E6%95%99",
+    "file": "zh_tantric_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Tantric_yoga",
+    "h1": "怛特羅密教"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%9F%E8%85%91",
+    "file": "zh_zang_fu",
+    "en_url": "https://en.wikipedia.org/wiki/Zang-fu",
+    "h1": "臟腑"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%9F%83%E5%8F%8A%E9%86%AB%E5%AD%B8",
+    "file": "zh_ancient_egyptian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine",
+    "h1": "古埃及醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9B%BF%E4%BB%A3%E5%8C%BB%E5%AD%A6",
+    "file": "zh_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "h1": "替代医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B0%91%E6%97%8F%E9%86%AB%E5%AD%B8",
+    "file": "zh_ethnomedicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ethnomedicine",
+    "h1": "民族醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8C%BB%E7%96%97%E5%8D%AB%E7%94%9F",
+    "file": "zh_health_care",
+    "en_url": "https://en.wikipedia.org/wiki/Health_care",
+    "h1": "医疗卫生"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%AB%94%E6%B6%B2%E5%AD%B8%E8%AA%AA",
+    "file": "zh_humorism",
+    "en_url": "https://en.wikipedia.org/wiki/Humorism",
+    "h1": "體液學說"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%86%AB%E5%AD%B8",
+    "file": "zh_naturopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathy",
+    "h1": "自然醫學"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%90%A8%E6%BB%A1%E6%95%99",
+    "file": "zh_shamanism",
+    "en_url": "https://en.wikipedia.org/wiki/Shamanism",
+    "h1": "萨满教"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B0%A3_(%E4%B8%AD%E5%9C%8B)",
+    "file": "zh_chi_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Chi_healing",
+    "h1": "氣 (中國)"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90%E5%AE%87%E5%AE%99",
+    "file": "zh_pythagorean_sound_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Pythagorean_sound_healing",
+    "h1": "音乐宇宙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%9B%BF%E4%BB%A3%E5%8C%BB%E5%AD%A6",
+    "file": "zh_alternative_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_healing",
+    "h1": "替代医学"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%9D%A3%E7%A7%91%E5%AD%B8%E6%95%99%E6%9C%83",
+    "file": "zh_christian_science_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Christian_Science_healing",
+    "h1": "基督科學教會"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BA%B8%E9%86%AB",
+    "file": "zh_quackery",
+    "en_url": "https://en.wikipedia.org/wiki/Quackery",
+    "h1": "庸醫"
+  }
+]

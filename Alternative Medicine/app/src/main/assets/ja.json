@@ -1,0 +1,786 @@
+[
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%8D%BC",
+    "file": "ja_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Acupuncture",
+    "h1": "鍼"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%BC%E3%82%AF",
+    "file": "ja_alexander_technique",
+    "en_url": "https://en.wikipedia.org/wiki/Alexander_technique",
+    "h1": "アレクサンダー・テクニーク"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%82%AD%E3%83%8D%E3%82%B7%E3%82%AA%E3%83%AD%E3%82%B8%E3%83%BC",
+    "file": "ja_applied_kinesiology",
+    "en_url": "https://en.wikipedia.org/wiki/Applied_kinesiology",
+    "h1": "アプライドキネシオロジー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%83%A9%E3%83%94%E3%83%BC",
+    "file": "ja_aromatherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Aromatherapy",
+    "h1": "アロマテラピー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8D%A0%E6%98%9F%E8%A1%93",
+    "file": "ja_astrology",
+    "en_url": "https://en.wikipedia.org/wiki/Astrology",
+    "h1": "占星術"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E5%BE%8B%E8%A8%93%E7%B7%B4%E6%B3%95",
+    "file": "ja_autogenic_training",
+    "en_url": "https://en.wikipedia.org/wiki/Autogenic_training",
+    "h1": "自律訓練法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%A6%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%80",
+    "file": "ja_ayurveda",
+    "en_url": "https://en.wikipedia.org/wiki/Ayurveda",
+    "h1": "アーユルヴェーダ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%81%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+    "file": "ja_bach_flower_remedies",
+    "en_url": "https://en.wikipedia.org/wiki/Bach_flower_remedies",
+    "h1": "バッチフラワー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B8%A9%E6%B3%89%E7%99%82%E6%B3%95",
+    "file": "ja_balneotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Balneotherapy",
+    "h1": "温泉療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%99%82%E6%B3%95",
+    "file": "ja_chelation_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Chelation_therapy",
+    "h1": "キレーション療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%AD%A6%E8%A1%93",
+    "file": "ja_chinese_martial_arts",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_martial_arts",
+    "h1": "中国武術"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6",
+    "file": "ja_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine",
+    "h1": "中国医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%84%88%E8%A8%BA",
+    "file": "ja_chinese_pulse_diagnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_pulse_diagnosis",
+    "h1": "脈診"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AD%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+    "file": "ja_chiropractic",
+    "en_url": "https://en.wikipedia.org/wiki/Chiropractic",
+    "h1": "カイロプラクティック"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%8B%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%94%E3%83%BC",
+    "file": "ja_craniosacral_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Craniosacral_therapy",
+    "h1": "クラニオセイクラル・セラピー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+    "file": "ja_crystal_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Crystal_healing",
+    "h1": "パワーストーン"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E7%99%82%E6%B3%95",
+    "file": "ja_fire_cupping",
+    "en_url": "https://en.wikipedia.org/wiki/Fire_cupping",
+    "h1": "カッピング療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88",
+    "file": "ja_dietary_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Dietary_supplements",
+    "h1": "サプリメント"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0",
+    "file": "ja_dowsing",
+    "en_url": "https://en.wikipedia.org/wiki/Dowsing",
+    "h1": "ダウジング"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E6%B2%BB%E7%99%82%E5%99%A8",
+    "file": "ja_magnet_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Magnet_therapy",
+    "h1": "磁気治療器"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%8D%BC",
+    "file": "ja_medical_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Medical_acupuncture",
+    "h1": "鍼"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%82%AD",
+    "file": "ja_reiki",
+    "en_url": "https://en.wikipedia.org/wiki/Reiki",
+    "h1": "レイキ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B0%97%E5%8A%9F",
+    "file": "ja_qigong",
+    "en_url": "https://en.wikipedia.org/wiki/Qigong",
+    "h1": "気功"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%8C%87%E5%9C%A7",
+    "file": "ja_shiatsu",
+    "en_url": "https://en.wikipedia.org/wiki/Shiatsu",
+    "h1": "指圧"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%A9%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%BF%E3%83%83%E3%83%81",
+    "file": "ja_therapeutic_touch",
+    "en_url": "https://en.wikipedia.org/wiki/Therapeutic_touch",
+    "h1": "セラピューティック・タッチ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E7%99%82%E6%B3%95",
+    "file": "ja_energy_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_medicine",
+    "h1": "エネルギー療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B3%A2%E5%8B%95_(%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88)",
+    "file": "ja_energy_psychology",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_psychology",
+    "h1": "波動 (オカルト)"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BF%83%E9%9C%8A%E6%B2%BB%E7%99%82",
+    "file": "ja_faith_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Faith_healing",
+    "h1": "心霊治療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%AD%E9%A3%9F",
+    "file": "ja_fasting",
+    "en_url": "https://en.wikipedia.org/wiki/Fasting",
+    "h1": "断食"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89",
+    "file": "ja_feldenkrais_method",
+    "en_url": "https://en.wikipedia.org/wiki/Feldenkrais_method",
+    "h1": "フェルデンクライスメソッド"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%A2%A8%E6%B0%B4",
+    "file": "ja_feng_shui",
+    "en_url": "https://en.wikipedia.org/wiki/Feng_shui",
+    "h1": "風水"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E8%A1%8C%E6%80%9D%E6%83%B3",
+    "file": "ja_wu_xing",
+    "en_url": "https://en.wikipedia.org/wiki/Wu_Xing",
+    "h1": "五行思想"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%83%81%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+    "file": "ja_flower_essence_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Flower_essence_therapy",
+    "h1": "バッチフラワー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%BF%E3%83%BB%E3%83%A8%E3%83%BC%E3%82%AC",
+    "file": "ja_hatha_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Hatha_yoga",
+    "h1": "ハタ・ヨーガ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9F%E3%83%AD%E3%83%9F",
+    "file": "ja_hawaiian_massage",
+    "en_url": "https://en.wikipedia.org/wiki/Hawaiian_massage",
+    "h1": "ロミロミ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%8D%89%E5%AD%A6",
+    "file": "ja_herbalism",
+    "en_url": "https://en.wikipedia.org/wiki/Herbalism",
+    "h1": "本草学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%8D%89%E5%AD%A6",
+    "file": "ja_herbal_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Herbal_therapy",
+    "h1": "本草学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%8D%89%E5%AD%A6",
+    "file": "ja_herbology",
+    "en_url": "https://en.wikipedia.org/wiki/Herbology",
+    "h1": "本草学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0",
+    "file": "ja_holistic_living",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_living",
+    "h1": "ホーリズム"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%9B%BF%E5%8C%BB%E7%99%82",
+    "file": "ja_holistic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_medicine",
+    "h1": "代替医療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A1%E3%82%AA%E3%83%91%E3%82%B7%E3%83%BC",
+    "file": "ja_homeopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Homeopathy",
+    "h1": "ホメオパシー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BC%9D%E7%B5%B1%E5%8C%BB%E5%AD%A6",
+    "file": "ja_home_remedy",
+    "en_url": "https://en.wikipedia.org/wiki/Home_remedy",
+    "h1": "伝統医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0",
+    "file": "ja_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnosis",
+    "h1": "催眠"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%82%AC%E7%9C%A0%E7%99%82%E6%B3%95",
+    "file": "ja_hypnotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnotherapy",
+    "h1": "催眠療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A1%E3%82%AA%E3%83%91%E3%82%B7%E3%83%BC",
+    "file": "ja_isopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Isopathy",
+    "h1": "ホメオパシー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%96%B9%E5%8C%BB%E5%AD%A6",
+    "file": "ja_kampo",
+    "en_url": "https://en.wikipedia.org/wiki/Kampo",
+    "h1": "漢方医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%89%E7%99%82%E6%B3%95",
+    "file": "ja_light_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Light_therapy",
+    "h1": "光療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%93%E3%82%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+    "file": "ja_macrobiotic_lifestyle",
+    "en_url": "https://en.wikipedia.org/wiki/Macrobiotic_lifestyle",
+    "h1": "マクロビオティック"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E6%B2%BB%E7%99%82%E5%99%A8",
+    "file": "ja_magnetic_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Magnetic_healing",
+    "h1": "磁気治療器"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%89%8B%E6%8A%80%E7%99%82%E6%B3%95",
+    "file": "ja_manipulative_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Manipulative_therapy",
+    "h1": "手技療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E7%B5%A1",
+    "file": "ja_meridian_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)",
+    "h1": "経絡"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%86%E3%82%A3_(%E4%BB%8F%E6%95%99)",
+    "file": "ja_mindfulness_buddhism",
+    "en_url": "https://en.wikipedia.org/wiki/Mindfulness_(Buddhism)",
+    "h1": "サティ (仏教)"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%B6%85%E8%B6%8A%E7%9E%91%E6%83%B3",
+    "file": "ja_transcendental_meditation",
+    "en_url": "https://en.wikipedia.org/wiki/Transcendental_meditation",
+    "h1": "超越瞑想"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%91%E3%83%83%E3%82%B5%E3%83%8A%E3%83%BC%E7%9E%91%E6%83%B3",
+    "file": "ja_vipassana",
+    "en_url": "https://en.wikipedia.org/wiki/Vipassana",
+    "h1": "ヴィパッサナー瞑想"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%BD%E3%83%A2%E3%83%AC%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E7%99%82%E6%B3%95",
+    "file": "ja_orthomolecular_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Orthomolecular_medicine",
+    "h1": "オーソモレキュラー療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%81%B8",
+    "file": "ja_moxibustion",
+    "en_url": "https://en.wikipedia.org/wiki/Moxibustion",
+    "h1": "灸"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%A5%BD%E7%99%82%E6%B3%95",
+    "file": "ja_music_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Music_therapy",
+    "h1": "音楽療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AD%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+    "file": "ja_naprapathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naprapathy",
+    "h1": "カイロプラクティック"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BD%E3%83%BC%E3%83%88",
+    "file": "ja_new_thought",
+    "en_url": "https://en.wikipedia.org/wiki/New_thought",
+    "h1": "ニューソート"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E8%A8%80%E8%AA%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0",
+    "file": "ja_neuro_linguistic_programming",
+    "en_url": "https://en.wikipedia.org/wiki/Neuro-linguistic_programming",
+    "h1": "神経言語プログラミング"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88",
+    "file": "ja_nutritional_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_supplements",
+    "h1": "サプリメント"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%98%E3%83%AB%E3%83%A0%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%92",
+    "file": "ja_orgonomy",
+    "en_url": "https://en.wikipedia.org/wiki/Orgonomy",
+    "h1": "ヴィルヘルム・ライヒ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%83%86%E3%82%AA%E3%83%91%E3%82%B7%E3%83%BC",
+    "file": "ja_osteopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Osteopathy",
+    "h1": "オステオパシー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89",
+    "file": "ja_pilates",
+    "en_url": "https://en.wikipedia.org/wiki/Pilates",
+    "h1": "ピラティス・メソッド"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E7%99%82%E6%B3%95",
+    "file": "ja_polarity_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Polarity_therapy",
+    "h1": "エネルギー療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A5%88%E3%82%8A",
+    "file": "ja_prayer",
+    "en_url": "https://en.wikipedia.org/wiki/Prayer",
+    "h1": "祈り"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B0%97",
+    "file": "ja_qi",
+    "en_url": "https://en.wikipedia.org/wiki/Qi",
+    "h1": "気"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%8B%E3%82%AF%E3%82%B9",
+    "file": "ja_radionics",
+    "en_url": "https://en.wikipedia.org/wiki/Radionics",
+    "h1": "ラジオニクス"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%BD%E3%83%AD%E3%82%B8%E3%83%BC",
+    "file": "ja_reflexology",
+    "en_url": "https://en.wikipedia.org/wiki/Reflexology",
+    "h1": "リフレクソロジー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%B0",
+    "file": "ja_rolfing",
+    "en_url": "https://en.wikipedia.org/wiki/Rolfing",
+    "h1": "ロルフィング"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%95%B4%E4%BD%93",
+    "file": "ja_seitai",
+    "en_url": "https://en.wikipedia.org/wiki/Seitai",
+    "h1": "整体"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%83%E3%83%80%E5%8C%BB%E5%AD%A6",
+    "file": "ja_siddha_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Siddha_medicine",
+    "h1": "シッダ医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%8D%BC",
+    "file": "ja_sonopuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Sonopuncture",
+    "h1": "鍼"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%A5%BD%E7%99%82%E6%B3%95",
+    "file": "ja_sound_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Sound_therapy",
+    "h1": "音楽療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%B0",
+    "file": "ja_structural_integration",
+    "en_url": "https://en.wikipedia.org/wiki/Structural_Integration",
+    "h1": "ロルフィング"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%94%AF%E6%8F%B4%E5%9B%A3%E4%BD%93",
+    "file": "ja_support_groups",
+    "en_url": "https://en.wikipedia.org/wiki/Support_groups",
+    "h1": "支援団体"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E5%8F%A4%E5%BC%8F%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8",
+    "file": "ja_thai_massage",
+    "en_url": "https://en.wikipedia.org/wiki/Thai_massage",
+    "h1": "タイ古式マッサージ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%8B%E7%99%82%E6%B3%95",
+    "file": "ja_thalassotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Thalassotherapy",
+    "h1": "海洋療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6",
+    "file": "ja_history_of_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/History_of_traditional_Chinese_medicine",
+    "h1": "中国医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%9F%93%E5%8C%BB%E5%AD%A6",
+    "file": "ja_traditional_korean_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Korean_medicine",
+    "h1": "韓医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%96%B9%E5%8C%BB%E5%AD%A6",
+    "file": "ja_traditional_japanese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Japanese_medicine",
+    "h1": "漢方医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%8C%BB%E5%AD%A6",
+    "file": "ja_traditional_mongolian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Mongolian_medicine",
+    "h1": "モンゴル医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%99%E3%83%83%E3%83%88%E5%8C%BB%E5%AD%A6",
+    "file": "ja_traditional_tibetan_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Tibetan_medicine",
+    "h1": "チベット医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8A%E3%83%8B%E5%8C%BB%E5%AD%A6",
+    "file": "ja_unani_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Unani_medicine",
+    "h1": "ユナニ医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%BF%E7%99%82%E6%B3%95",
+    "file": "ja_urine_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Urine_therapy",
+    "h1": "尿療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8",
+    "file": "ja_mental_image",
+    "en_url": "https://en.wikipedia.org/wiki/Mental_image",
+    "h1": "イメージ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A8%E3%83%AB%E3%83%8D%E3%82%B9",
+    "file": "ja_wellness_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Wellness_(alternative_medicine)",
+    "h1": "ウエルネス"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BB%E3%83%A8%E3%83%BC%E3%82%AC",
+    "file": "ja_rc4ja_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/R%C4%81ja_yoga",
+    "h1": "ラージャ・ヨーガ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%A8%E3%82%AC",
+    "file": "ja_bikram_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Bikram_yoga",
+    "h1": "ビクラムヨガ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%88%E3%83%A9",
+    "file": "ja_tantric_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Tantric_yoga",
+    "h1": "タントラ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BA%94%E8%87%93%E5%85%AD%E8%85%91",
+    "file": "ja_zang_fu",
+    "en_url": "https://en.wikipedia.org/wiki/Zang-fu",
+    "h1": "五臓六腑"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88%E5%8C%BB%E5%AD%A6",
+    "file": "ja_ancient_egyptian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine",
+    "h1": "古代エジプト医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8A%E3%83%8B%E5%8C%BB%E5%AD%A6",
+    "file": "ja_unani",
+    "en_url": "https://en.wikipedia.org/wiki/Unani",
+    "h1": "ユナニ医学"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%9C%E3%82%AC",
+    "file": "ja_iboga",
+    "en_url": "https://en.wikipedia.org/wiki/Iboga",
+    "h1": "イボガ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%A3%E3%83%AF%E3%83%A4",
+    "file": "ja_kallawaya",
+    "en_url": "https://en.wikipedia.org/wiki/Kallawaya",
+    "h1": "カリャワヤ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%9B%BF%E5%8C%BB%E7%99%82",
+    "file": "ja_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "h1": "代替医療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%BB%E7%99%82",
+    "file": "ja_health_care",
+    "en_url": "https://en.wikipedia.org/wiki/Health_care",
+    "h1": "医療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E4%BD%93%E6%B6%B2%E8%AA%AC",
+    "file": "ja_humorism",
+    "en_url": "https://en.wikipedia.org/wiki/Humorism",
+    "h1": "四体液説"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%BA%E3%83%A0",
+    "file": "ja_shamanism",
+    "en_url": "https://en.wikipedia.org/wiki/Shamanism",
+    "h1": "シャーマニズム"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E7%99%82%E6%B3%95",
+    "file": "ja_absent_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Absent_Healing",
+    "h1": "エネルギー療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B0%97",
+    "file": "ja_chi_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Chi_healing",
+    "h1": "気"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+    "file": "ja_gem_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Gem_healing",
+    "h1": "パワーストーン"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BF%83%E9%9C%8A%E6%B2%BB%E7%99%82",
+    "file": "ja_spiritist_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Spiritist_healing",
+    "h1": "心霊治療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BF%83%E9%9C%8A%E6%B2%BB%E7%99%82",
+    "file": "ja_supernatural_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Supernatural_healing",
+    "h1": "心霊治療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%99%AE%E9%81%8D%E5%8C%BB%E8%96%AC",
+    "file": "ja_universal_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Universal_Medicine",
+    "h1": "普遍医薬"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E7%99%82%E6%B3%95",
+    "file": "ja_vibrational_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Vibrational_healing",
+    "h1": "エネルギー療法"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%9B%BF%E5%8C%BB%E7%99%82",
+    "file": "ja_alternative_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_healing",
+    "h1": "代替医療"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9",
+    "file": "ja_christian_science_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Christian_Science_healing",
+    "h1": "クリスチャン・サイエンス"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B3%A2%E5%8B%95_(%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88)",
+    "file": "ja_energy_esotericism",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_(esotericism)",
+    "h1": "波動 (オカルト)"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E9%81%8B%E5%8B%95",
+    "file": "ja_healing_revival",
+    "en_url": "https://en.wikipedia.org/wiki/Healing_Revival",
+    "h1": "ヒーリング運動"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%8C%89%E6%89%8B",
+    "file": "ja_laying_on_of_hands",
+    "en_url": "https://en.wikipedia.org/wiki/Laying_on_of_hands",
+    "h1": "按手"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%81%BD%E5%8C%BB%E7%99%82",
+    "file": "ja_quackery",
+    "en_url": "https://en.wikipedia.org/wiki/Quackery",
+    "h1": "偽医療"
+  }
+]

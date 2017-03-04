@@ -1,0 +1,828 @@
+[
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D0%BF%D1%80%D0%B5%D1%81%D1%81%D1%83%D1%80%D0%B0",
+    "file": "ru_acupressure",
+    "en_url": "https://en.wikipedia.org/wiki/Acupressure",
+    "h1": "Акупрессура"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%83%D1%80%D0%B0",
+    "file": "ru_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Acupuncture",
+    "h1": "Акупунктура"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D1%80%D0%B0%D0%BA%D0%B0",
+    "file": "ru_alternative_cancer_treatments",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_cancer_treatments",
+    "h1": "Альтернативное лечение рака"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_apitherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Apitherapy",
+    "h1": "Апитерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D0%BD%D0%B5%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+    "file": "ru_applied_kinesiology",
+    "en_url": "https://en.wikipedia.org/wiki/Applied_kinesiology",
+    "h1": "Прикладная кинезиология"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_aromatherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Aromatherapy",
+    "h1": "Ароматерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+    "file": "ru_astrology",
+    "en_url": "https://en.wikipedia.org/wiki/Astrology",
+    "h1": "Астрология"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_attachment_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Attachment_therapy",
+    "h1": "Холдинг-терапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0",
+    "file": "ru_autogenic_training",
+    "en_url": "https://en.wikipedia.org/wiki/Autogenic_training",
+    "h1": "Аутогенная тренировка"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%8E%D1%80%D0%B2%D0%B5%D0%B4%D0%B0",
+    "file": "ru_ayurveda",
+    "en_url": "https://en.wikipedia.org/wiki/Ayurveda",
+    "h1": "Аюрведа"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_balneotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Balneotherapy",
+    "h1": "Бальнеотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%91%D0%B5%D0%B9%D1%82%D1%81%D0%B0",
+    "file": "ru_bates_method",
+    "en_url": "https://en.wikipedia.org/wiki/Bates_method",
+    "h1": "Метод Бейтса"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D1%80%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0%D0%BD%D1%81",
+    "file": "ru_bioresonance_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Bioresonance_therapy",
+    "h1": "Биорезонанс"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D1%81%D0%B2%D0%B5%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D1%80%D0%BE%D0%B2%D0%B8",
+    "file": "ru_blood_irradiation_therapies",
+    "en_url": "https://en.wikipedia.org/wiki/Blood_irradiation_therapies",
+    "h1": "Терапевтическое освечивание крови"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine",
+    "h1": "Традиционная китайская медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%80%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0",
+    "file": "ru_chiropractic",
+    "en_url": "https://en.wikipedia.org/wiki/Chiropractic",
+    "h1": "Хиропрактика"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_chromotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Chromotherapy",
+    "h1": "Цветотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_(%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0)",
+    "file": "ru_coding_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Coding_(therapy)",
+    "h1": "Кодирование (медицина)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_crystal_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Crystal_healing",
+    "h1": "Литотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8",
+    "file": "ru_fire_cupping",
+    "en_url": "https://en.wikipedia.org/wiki/Fire_cupping",
+    "h1": "Медицинские банки"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BA%D0%B8",
+    "file": "ru_dietary_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Dietary_supplements",
+    "h1": "Биологически активные добавки"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B7%D0%BE%D1%85%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_dowsing",
+    "en_url": "https://en.wikipedia.org/wiki/Dowsing",
+    "h1": "Лозоходство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F_(%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5)",
+    "file": "ru_magnet_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Magnet_therapy",
+    "h1": "Магнитотерапия (статическое поле)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%83%D1%80%D0%B0",
+    "file": "ru_medical_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Medical_acupuncture",
+    "h1": "Акупунктура"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B9%D0%BA%D0%B8",
+    "file": "ru_reiki",
+    "en_url": "https://en.wikipedia.org/wiki/Reiki",
+    "h1": "Рэйки"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%B3%D1%83%D0%BD",
+    "file": "ru_qigong",
+    "en_url": "https://en.wikipedia.org/wiki/Qigong",
+    "h1": "Цигун"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B0%D1%86%D1%83",
+    "file": "ru_shiatsu",
+    "en_url": "https://en.wikipedia.org/wiki/Shiatsu",
+    "h1": "Шиацу"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_energy_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_medicine",
+    "h1": "Энергетическая медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5",
+    "file": "ru_energy_psychology",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_psychology",
+    "h1": "Биополе"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D0%B9",
+    "file": "ru_faith_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Faith_healing",
+    "h1": "Исцеление верой"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82_(%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F)",
+    "file": "ru_fasting",
+    "en_url": "https://en.wikipedia.org/wiki/Fasting",
+    "h1": "Пост (религия)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%A4%D0%B5%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%BA%D1%80%D0%B0%D0%B9%D0%B7%D0%B0",
+    "file": "ru_feldenkrais_method",
+    "en_url": "https://en.wikipedia.org/wiki/Feldenkrais_method",
+    "h1": "Метод Фельденкрайза"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A4%D1%8D%D0%BD%D1%88%D1%83%D0%B9",
+    "file": "ru_feng_shui",
+    "en_url": "https://en.wikipedia.org/wiki/Feng_shui",
+    "h1": "Фэншуй"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A3-%D1%81%D0%B8%D0%BD",
+    "file": "ru_wu_xing",
+    "en_url": "https://en.wikipedia.org/wiki/Wu_Xing",
+    "h1": "У-син"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D1%85%D0%B0-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_hatha_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Hatha_yoga",
+    "h1": "Хатха-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B8%D0%B7%D0%BC",
+    "file": "ru_holistic_living",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_living",
+    "h1": "Холизм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_holistic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_medicine",
+    "h1": "Нетрадиционная медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_homeopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Homeopathy",
+    "h1": "Гомеопатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_home_remedy",
+    "en_url": "https://en.wikipedia.org/wiki/Home_remedy",
+    "h1": "Народная медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+    "file": "ru_hydrotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Hydrotherapy",
+    "h1": "Водолечение"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BD%D0%BE%D0%B7",
+    "file": "ru_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnosis",
+    "h1": "Гипноз"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B8%D0%B4%D0%BE%D0%B4%D0%B8%D0%B0%D0%B3%D0%BD%D0%BE%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
+    "file": "ru_iridology",
+    "en_url": "https://en.wikipedia.org/wiki/Iridology",
+    "h1": "Иридодиагностика"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_isopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Isopathy",
+    "h1": "Гомеопатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_light_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Light_therapy",
+    "h1": "Фототерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B0",
+    "file": "ru_macrobiotic_lifestyle",
+    "en_url": "https://en.wikipedia.org/wiki/Macrobiotic_lifestyle",
+    "h1": "Макробиотика"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F_(%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5)",
+    "file": "ru_magnetic_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Magnetic_healing",
+    "h1": "Магнитотерапия (статическое поле)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_manipulative_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Manipulative_therapy",
+    "h1": "Мануальная терапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B8%D0%B4%D0%B8%D0%B0%D0%BD_(%D0%B0%D0%BA%D1%83%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%83%D1%80%D0%B0)",
+    "file": "ru_meridian_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)",
+    "h1": "Меридиан (акупунктура)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%86%D0%B5%D0%BD%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F",
+    "file": "ru_transcendental_meditation",
+    "en_url": "https://en.wikipedia.org/wiki/Transcendental_meditation",
+    "h1": "Трансцендентальная медитация"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%BD%D0%B0",
+    "file": "ru_vipassana",
+    "en_url": "https://en.wikipedia.org/wiki/Vipassana",
+    "h1": "Випассана"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%82%D0%BE%D0%BC%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_orthomolecular_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Orthomolecular_medicine",
+    "h1": "Ортомолекулярная медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_music_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Music_therapy",
+    "h1": "Музыкотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%80%D0%BE%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0",
+    "file": "ru_naprapathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naprapathy",
+    "h1": "Хиропрактика"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_natural_health",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_Health",
+    "h1": "Натуропатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_natural_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_therapy",
+    "h1": "Натуропатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_naturopathic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathic_medicine",
+    "h1": "Натуропатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+    "file": "ru_new_thought",
+    "en_url": "https://en.wikipedia.org/wiki/New_thought",
+    "h1": "Новое мышление"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
+    "file": "ru_neuro_linguistic_programming",
+    "en_url": "https://en.wikipedia.org/wiki/Neuro-linguistic_programming",
+    "h1": "Нейролингвистическое программирование"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_nutritional_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_healing",
+    "h1": "Натуропатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BA%D0%B8",
+    "file": "ru_nutritional_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_supplements",
+    "h1": "Биологически активные добавки"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D1%85,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+    "file": "ru_orgonomy",
+    "en_url": "https://en.wikipedia.org/wiki/Orgonomy",
+    "h1": "Райх, Вильгельм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B5%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_osteopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Osteopathy",
+    "h1": "Остеопатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BB%D0%B0%D1%82%D0%B5%D1%81",
+    "file": "ru_pilates",
+    "en_url": "https://en.wikipedia.org/wiki/Pilates",
+    "h1": "Пилатес"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_polarity_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Polarity_therapy",
+    "h1": "Энергетическая медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%88%D1%82%D0%B0%D0%BD%D0%B3%D0%B0-%D0%B2%D0%B8%D0%BD%D1%8C%D1%8F%D1%81%D0%B0-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_power_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Power_yoga",
+    "h1": "Аштанга-виньяса-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0",
+    "file": "ru_prayer",
+    "en_url": "https://en.wikipedia.org/wiki/Prayer",
+    "h1": "Молитва"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BB%D0%B5%D1%80_(%D1%86%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)",
+    "file": "ru_psychic_surgery",
+    "en_url": "https://en.wikipedia.org/wiki/Psychic_surgery",
+    "h1": "Хилер (целитель)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8",
+    "file": "ru_qi",
+    "en_url": "https://en.wikipedia.org/wiki/Qi",
+    "h1": "Ци"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B1%D1%91%D1%84%D0%B8%D0%BD%D0%B3",
+    "file": "ru_rebirthing_breathwork",
+    "en_url": "https://en.wikipedia.org/wiki/Rebirthing_(breathwork)",
+    "h1": "Ребёфинг"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0)",
+    "file": "ru_reflexology",
+    "en_url": "https://en.wikipedia.org/wiki/Reflexology",
+    "h1": "Рефлексология (альтернативная медицина)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BB%D1%8C%D1%84%D0%B8%D0%BD%D0%B3",
+    "file": "ru_rolfing",
+    "en_url": "https://en.wikipedia.org/wiki/Rolfing",
+    "h1": "Рольфинг"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D0%B3%D0%B8%D0%BF%D0%BD%D0%BE%D0%B7",
+    "file": "ru_self_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Self-hypnosis",
+    "h1": "Самогипноз"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%83%D1%80%D0%B0",
+    "file": "ru_sonopuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Sonopuncture",
+    "h1": "Акупунктура"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_sound_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Sound_therapy",
+    "h1": "Музыкотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BB%D1%8C%D1%84%D0%B8%D0%BD%D0%B3",
+    "file": "ru_structural_integration",
+    "en_url": "https://en.wikipedia.org/wiki/Structural_Integration",
+    "h1": "Рольфинг"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%81%D1%81%D0%B0%D0%B6",
+    "file": "ru_thai_massage",
+    "en_url": "https://en.wikipedia.org/wiki/Thai_massage",
+    "h1": "Тайский массаж"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_thalassotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Thalassotherapy",
+    "h1": "Талассотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_history_of_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/History_of_traditional_Chinese_medicine",
+    "h1": "Традиционная китайская медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_traditional_korean_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Korean_medicine",
+    "h1": "Корейская традиционная медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_traditional_mongolian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Mongolian_medicine",
+    "h1": "Традиционная монгольская медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B8%D0%B1%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_traditional_tibetan_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Tibetan_medicine",
+    "h1": "Традиционная тибетская медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B8%D0%BD%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_urine_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Urine_therapy",
+    "h1": "Уринотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7_(%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)",
+    "file": "ru_mental_image",
+    "en_url": "https://en.wikipedia.org/wiki/Mental_image",
+    "h1": "Образ (психология)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5",
+    "file": "ru_water_cure_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Water_cure_(therapy)",
+    "h1": "Водолечение"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%BD%D0%B5%D1%81",
+    "file": "ru_wellness_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Wellness_(alternative_medicine)",
+    "h1": "Велнес"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B6%D0%B0-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_rc4ja_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/R%C4%81ja_yoga",
+    "h1": "Раджа-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%88%D1%82%D0%B0%D0%BD%D0%B3%D0%B0-%D0%B2%D0%B8%D0%BD%D1%8C%D1%8F%D1%81%D0%B0-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_ashtanga_vinyasa_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Ashtanga_vinyasa_yoga",
+    "h1": "Аштанга-виньяса-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D1%80%D0%B0%D0%BC-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_bikram_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Bikram_yoga",
+    "h1": "Бикрам-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D0%B5%D0%BD%D0%B3%D0%B0%D1%80-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_iyengar_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Iyengar_yoga",
+    "h1": "Айенгар-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D0%B4%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_kundalini_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Kundalini_yoga",
+    "h1": "Кундалини-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D1%82%D1%80%D0%B0",
+    "file": "ru_tantric_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Tantric_yoga",
+    "h1": "Тантра"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%B8-%D0%B9%D0%BE%D0%B3%D0%B0",
+    "file": "ru_viniyoga",
+    "en_url": "https://en.wikipedia.org/wiki/Viniyoga",
+    "h1": "Вини-йога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0",
+    "file": "ru_ancient_egyptian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine",
+    "h1": "Медицина Древнего Египта"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B9_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8",
+    "file": "ru_ancient_greek_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Greek_medicine",
+    "h1": "Медицина Древней Греции"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D0%BE%D0%B3%D0%B0",
+    "file": "ru_iboga",
+    "en_url": "https://en.wikipedia.org/wiki/Iboga",
+    "h1": "Ибога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0_%D0%B0%D1%86%D1%82%D0%B5%D0%BA%D0%BE%D0%B2",
+    "file": "ru_aztec_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Aztec_medicine",
+    "h1": "Медицина ацтеков"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D0%BE",
+    "file": "ru_curandero",
+    "en_url": "https://en.wikipedia.org/wiki/Curandero",
+    "h1": "Курандеро"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D0%B9%D1%8F",
+    "file": "ru_kallawaya",
+    "en_url": "https://en.wikipedia.org/wiki/Kallawaya",
+    "h1": "Калавайя"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0_%D0%BC%D0%B0%D0%B9%D1%8F",
+    "file": "ru_maya_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Maya_medicine",
+    "h1": "Медицина майя"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_medieval_medicine_of_western_europe",
+    "en_url": "https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe",
+    "h1": "Средневековая медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "h1": "Нетрадиционная медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5",
+    "file": "ru_health_care",
+    "en_url": "https://en.wikipedia.org/wiki/Health_care",
+    "h1": "Здравоохранение"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F",
+    "file": "ru_naturopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathy",
+    "h1": "Натуропатия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_prehistoric_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Prehistoric_medicine",
+    "h1": "Доисторическая медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC",
+    "file": "ru_shamanism",
+    "en_url": "https://en.wikipedia.org/wiki/Shamanism",
+    "h1": "Шаманизм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_absent_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Absent_Healing",
+    "h1": "Энергетическая медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8",
+    "file": "ru_chi_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Chi_healing",
+    "h1": "Ци"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D1%8F",
+    "file": "ru_gem_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Gem_healing",
+    "h1": "Литотерапия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F_%D1%81%D1%84%D0%B5%D1%80",
+    "file": "ru_pythagorean_sound_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Pythagorean_sound_healing",
+    "h1": "Гармония сфер"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BF%D1%80%D0%B0,_%D0%94%D0%B8%D0%BF%D0%B0%D0%BA",
+    "file": "ru_quantum_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Quantum_healing",
+    "h1": "Чопра, Дипак"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D0%B9",
+    "file": "ru_spiritist_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Spiritist_healing",
+    "h1": "Исцеление верой"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D0%BE%D0%B9",
+    "file": "ru_supernatural_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Supernatural_healing",
+    "h1": "Исцеление верой"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_vibrational_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Vibrational_healing",
+    "h1": "Энергетическая медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0",
+    "file": "ru_alternative_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_healing",
+    "h1": "Нетрадиционная медицина"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0",
+    "file": "ru_christian_science_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Christian_Science_healing",
+    "h1": "Христианская наука"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5",
+    "file": "ru_energy_esotericism",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_(esotericism)",
+    "h1": "Биополе"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%80%D1%83%D0%BA",
+    "file": "ru_laying_on_of_hands",
+    "en_url": "https://en.wikipedia.org/wiki/Laying_on_of_hands",
+    "h1": "Возложение рук"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_quackery",
+    "en_url": "https://en.wikipedia.org/wiki/Quackery",
+    "h1": "Шарлатанство"
+  }
+]

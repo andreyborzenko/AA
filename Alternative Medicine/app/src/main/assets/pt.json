@@ -1,0 +1,884 @@
+[
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Acupuntura",
+    "file": "pt_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Acupuncture",
+    "h1": "Acupuntura"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/T%C3%A9cnica_de_Alexander",
+    "file": "pt_alexander_technique",
+    "en_url": "https://en.wikipedia.org/wiki/Alexander_technique",
+    "h1": "Técnica de Alexander"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_antropos%C3%B3fica",
+    "file": "pt_anthroposophical_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Anthroposophical_medicine",
+    "h1": "Medicina antroposófica"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Apiterapia",
+    "file": "pt_apitherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Apitherapy",
+    "h1": "Apiterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Aromaterapia",
+    "file": "pt_aromatherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Aromatherapy",
+    "h1": "Aromaterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Astrologia",
+    "file": "pt_astrology",
+    "en_url": "https://en.wikipedia.org/wiki/Astrology",
+    "h1": "Astrologia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Auriculoterapia",
+    "file": "pt_auriculotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Auriculotherapy",
+    "h1": "Auriculoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Treinamento_aut%C3%B3geno",
+    "file": "pt_autogenic_training",
+    "en_url": "https://en.wikipedia.org/wiki/Autogenic_training",
+    "h1": "Treinamento autógeno"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Autossugest%C3%A3o",
+    "file": "pt_autosuggestion",
+    "en_url": "https://en.wikipedia.org/wiki/Autosuggestion",
+    "h1": "Autossugestão"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ayurveda",
+    "file": "pt_ayurveda",
+    "en_url": "https://en.wikipedia.org/wiki/Ayurveda",
+    "h1": "Ayurveda"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ess%C3%AAncia_floral",
+    "file": "pt_bach_flower_remedies",
+    "en_url": "https://en.wikipedia.org/wiki/Bach_flower_remedies",
+    "h1": "Essência floral"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Balneoterapia",
+    "file": "pt_balneotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Balneotherapy",
+    "h1": "Balneoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Biodan%C3%A7a",
+    "file": "pt_biodanza",
+    "en_url": "https://en.wikipedia.org/wiki/Biodanza",
+    "h1": "Biodança"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Terapia_alimentar_chinesa",
+    "file": "pt_chinese_food_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_food_therapy",
+    "h1": "Terapia alimentar chinesa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Artes_marciais_chinesas",
+    "file": "pt_chinese_martial_arts",
+    "en_url": "https://en.wikipedia.org/wiki/Chinese_martial_arts",
+    "h1": "Artes marciais chinesas"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_tradicional_chinesa",
+    "file": "pt_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine",
+    "h1": "Medicina tradicional chinesa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Quiropraxia",
+    "file": "pt_chiropractic",
+    "en_url": "https://en.wikipedia.org/wiki/Chiropractic",
+    "h1": "Quiropraxia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cromoterapia",
+    "file": "pt_chromotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Chromotherapy",
+    "h1": "Cromoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Gua_sha",
+    "file": "pt_gua_sha",
+    "en_url": "https://en.wikipedia.org/wiki/Gua_Sha",
+    "h1": "Gua sha"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Sistema_craniossacral",
+    "file": "pt_craniosacral_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Craniosacral_therapy",
+    "h1": "Sistema craniossacral"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Pedra_curativa",
+    "file": "pt_crystal_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Crystal_healing",
+    "h1": "Pedra curativa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ventosaterapia",
+    "file": "pt_fire_cupping",
+    "en_url": "https://en.wikipedia.org/wiki/Fire_cupping",
+    "h1": "Ventosaterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Suplemento_alimentar",
+    "file": "pt_dietary_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Dietary_supplements",
+    "h1": "Suplemento alimentar"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Radiestesia",
+    "file": "pt_dowsing",
+    "en_url": "https://en.wikipedia.org/wiki/Dowsing",
+    "h1": "Radiestesia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Magnetoterapia",
+    "file": "pt_magnet_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Magnet_therapy",
+    "h1": "Magnetoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Acupuntura",
+    "file": "pt_medical_acupuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Medical_acupuncture",
+    "h1": "Acupuntura"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Reiki",
+    "file": "pt_reiki",
+    "en_url": "https://en.wikipedia.org/wiki/Reiki",
+    "h1": "Reiki"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Chi_kung",
+    "file": "pt_qigong",
+    "en_url": "https://en.wikipedia.org/wiki/Qigong",
+    "h1": "Chi kung"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Shiatsu",
+    "file": "pt_shiatsu",
+    "en_url": "https://en.wikipedia.org/wiki/Shiatsu",
+    "h1": "Shiatsu"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Toque_terap%C3%AAutico",
+    "file": "pt_therapeutic_touch",
+    "en_url": "https://en.wikipedia.org/wiki/Therapeutic_touch",
+    "h1": "Toque terapêutico"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_energy_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_medicine",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Bioenergia_(esoterismo)",
+    "file": "pt_energy_psychology",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_psychology",
+    "h1": "Bioenergia (esoterismo)"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_faith_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Faith_healing",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Jejum",
+    "file": "pt_fasting",
+    "en_url": "https://en.wikipedia.org/wiki/Fasting",
+    "h1": "Jejum"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Feng_shui",
+    "file": "pt_feng_shui",
+    "en_url": "https://en.wikipedia.org/wiki/Feng_shui",
+    "h1": "Feng shui"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Wu_Xing",
+    "file": "pt_wu_xing",
+    "en_url": "https://en.wikipedia.org/wiki/Wu_Xing",
+    "h1": "Wu Xing"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ess%C3%AAncia_floral",
+    "file": "pt_flower_essence_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Flower_essence_therapy",
+    "h1": "Essência floral"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Gua_sha",
+    "file": "pt_gua_sha",
+    "en_url": "https://en.wikipedia.org/wiki/Gua_sha",
+    "h1": "Gua sha"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Hata-ioga",
+    "file": "pt_hatha_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Hatha_yoga",
+    "h1": "Hata-ioga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Herbalismo",
+    "file": "pt_herbalism",
+    "en_url": "https://en.wikipedia.org/wiki/Herbalism",
+    "h1": "Herbalismo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Herbalismo",
+    "file": "pt_herbal_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Herbal_therapy",
+    "h1": "Herbalismo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Herbalismo",
+    "file": "pt_herbology",
+    "en_url": "https://en.wikipedia.org/wiki/Herbology",
+    "h1": "Herbalismo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Holismo",
+    "file": "pt_holistic_living",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_living",
+    "h1": "Holismo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_alternativa",
+    "file": "pt_holistic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Holistic_medicine",
+    "h1": "Medicina alternativa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Homeopatia",
+    "file": "pt_homeopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Homeopathy",
+    "h1": "Homeopatia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_tradicional",
+    "file": "pt_home_remedy",
+    "en_url": "https://en.wikipedia.org/wiki/Home_remedy",
+    "h1": "Medicina tradicional"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Hidroterapia",
+    "file": "pt_hydrotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Hydrotherapy",
+    "h1": "Hidroterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Hipnose",
+    "file": "pt_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnosis",
+    "h1": "Hipnose"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Hipnoterapia",
+    "file": "pt_hypnotherapy",
+    "en_url": "https://en.wikipedia.org/wiki/Hypnotherapy",
+    "h1": "Hipnoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Iridologia",
+    "file": "pt_iridology",
+    "en_url": "https://en.wikipedia.org/wiki/Iridology",
+    "h1": "Iridologia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Homeopatia",
+    "file": "pt_isopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Isopathy",
+    "h1": "Homeopatia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Fototerapia",
+    "file": "pt_light_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Light_therapy",
+    "h1": "Fototerapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Macrobi%C3%B3tica",
+    "file": "pt_macrobiotic_lifestyle",
+    "en_url": "https://en.wikipedia.org/wiki/Macrobiotic_lifestyle",
+    "h1": "Macrobiótica"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Magnetoterapia",
+    "file": "pt_magnetic_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Magnetic_healing",
+    "h1": "Magnetoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Terapia_manual",
+    "file": "pt_manipulative_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Manipulative_therapy",
+    "h1": "Terapia manual"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Drenagem_linf%C3%A1tica",
+    "file": "pt_manual_lymphatic_drainage",
+    "en_url": "https://en.wikipedia.org/wiki/Manual_lymphatic_drainage",
+    "h1": "Drenagem linfática"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Meridiano_(acupuntura)",
+    "file": "pt_meridian_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Meridian_(Chinese_medicine)",
+    "h1": "Meridiano (acupuntura)"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medita%C3%A7%C3%A3o_transcendental",
+    "file": "pt_transcendental_meditation",
+    "en_url": "https://en.wikipedia.org/wiki/Transcendental_meditation",
+    "h1": "Meditação transcendental"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Vipassana",
+    "file": "pt_vipassana",
+    "en_url": "https://en.wikipedia.org/wiki/Vipassana",
+    "h1": "Vipassana"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_ortomolecular",
+    "file": "pt_orthomolecular_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Orthomolecular_medicine",
+    "h1": "Medicina ortomolecular"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Interven%C3%A7%C3%A3o_mente-corpo",
+    "file": "pt_minde2body_intervention",
+    "en_url": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_intervention",
+    "h1": "Intervenção mente-corpo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Moxabust%C3%A3o",
+    "file": "pt_moxibustion",
+    "en_url": "https://en.wikipedia.org/wiki/Moxibustion",
+    "h1": "Moxabustão"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Musicoterapia",
+    "file": "pt_music_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Music_therapy",
+    "h1": "Musicoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Quiropraxia",
+    "file": "pt_naprapathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naprapathy",
+    "h1": "Quiropraxia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_natural",
+    "file": "pt_natural_health",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_Health",
+    "h1": "Medicina natural"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_natural",
+    "file": "pt_natural_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Natural_therapy",
+    "h1": "Medicina natural"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_natural",
+    "file": "pt_naturopathic_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathic_medicine",
+    "h1": "Medicina natural"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Movimento_Novo_Pensamento",
+    "file": "pt_new_thought",
+    "en_url": "https://en.wikipedia.org/wiki/New_thought",
+    "h1": "Movimento Novo Pensamento"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_neurolingu%C3%ADstica",
+    "file": "pt_neuro_linguistic_programming",
+    "en_url": "https://en.wikipedia.org/wiki/Neuro-linguistic_programming",
+    "h1": "Programação neurolinguística"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_natural",
+    "file": "pt_nutritional_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_healing",
+    "h1": "Medicina natural"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Suplemento_alimentar",
+    "file": "pt_nutritional_supplements",
+    "en_url": "https://en.wikipedia.org/wiki/Nutritional_supplements",
+    "h1": "Suplemento alimentar"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Wilhelm_Reich",
+    "file": "pt_orgonomy",
+    "en_url": "https://en.wikipedia.org/wiki/Orgonomy",
+    "h1": "Wilhelm Reich"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Osteopatia",
+    "file": "pt_osteopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Osteopathy",
+    "h1": "Osteopatia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Pilates",
+    "file": "pt_pilates",
+    "en_url": "https://en.wikipedia.org/wiki/Pilates",
+    "h1": "Pilates"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_polarity_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Polarity_therapy",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ashtanga_Vinyasa_Yoga",
+    "file": "pt_power_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Power_yoga",
+    "h1": "Ashtanga Vinyasa Yoga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ora%C3%A7%C3%A3o",
+    "file": "pt_prayer",
+    "en_url": "https://en.wikipedia.org/wiki/Prayer",
+    "h1": "Oração"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Qi",
+    "file": "pt_qi",
+    "en_url": "https://en.wikipedia.org/wiki/Qi",
+    "h1": "Qi"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Rebirthing",
+    "file": "pt_rebirthing_breathwork",
+    "en_url": "https://en.wikipedia.org/wiki/Rebirthing_(breathwork)",
+    "h1": "Rebirthing"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Reflexoterapia",
+    "file": "pt_reflexology",
+    "en_url": "https://en.wikipedia.org/wiki/Reflexology",
+    "h1": "Reflexoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Rolfing",
+    "file": "pt_rolfing",
+    "en_url": "https://en.wikipedia.org/wiki/Rolfing",
+    "h1": "Rolfing"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Auto-hipnose",
+    "file": "pt_self_hypnosis",
+    "en_url": "https://en.wikipedia.org/wiki/Self-hypnosis",
+    "h1": "Auto-hipnose"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Acupuntura",
+    "file": "pt_sonopuncture",
+    "en_url": "https://en.wikipedia.org/wiki/Sonopuncture",
+    "h1": "Acupuntura"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Musicoterapia",
+    "file": "pt_sound_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Sound_therapy",
+    "h1": "Musicoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Rolfing",
+    "file": "pt_structural_integration",
+    "en_url": "https://en.wikipedia.org/wiki/Structural_Integration",
+    "h1": "Rolfing"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Thai_massagem",
+    "file": "pt_thai_massage",
+    "en_url": "https://en.wikipedia.org/wiki/Thai_massage",
+    "h1": "Thai massagem"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Equoterapia",
+    "file": "pt_therapeutic_horseback_riding",
+    "en_url": "https://en.wikipedia.org/wiki/Therapeutic_horseback_riding",
+    "h1": "Equoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_tradicional_chinesa",
+    "file": "pt_history_of_traditional_chinese_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/History_of_traditional_Chinese_medicine",
+    "h1": "Medicina tradicional chinesa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Tuin%C3%A1",
+    "file": "pt_tui_na",
+    "en_url": "https://en.wikipedia.org/wiki/Tui_na",
+    "h1": "Tuiná"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Urinoterapia",
+    "file": "pt_urine_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Urine_therapy",
+    "h1": "Urinoterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Imagem_mental",
+    "file": "pt_mental_image",
+    "en_url": "https://en.wikipedia.org/wiki/Mental_image",
+    "h1": "Imagem mental"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Hidroterapia",
+    "file": "pt_water_cure_therapy",
+    "en_url": "https://en.wikipedia.org/wiki/Water_cure_(therapy)",
+    "h1": "Hidroterapia"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Raja-ioga",
+    "file": "pt_rc4ja_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/R%C4%81ja_yoga",
+    "h1": "Raja-ioga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ashtanga_Vinyasa_Yoga",
+    "file": "pt_ashtanga_vinyasa_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Ashtanga_vinyasa_yoga",
+    "h1": "Ashtanga Vinyasa Yoga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Tantra",
+    "file": "pt_tantric_yoga",
+    "en_url": "https://en.wikipedia.org/wiki/Tantric_yoga",
+    "h1": "Tantra"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Teoria_dos_%C3%B3rg%C3%A3os_Zang_Fu",
+    "file": "pt_zang_fu",
+    "en_url": "https://en.wikipedia.org/wiki/Zang-fu",
+    "h1": "Teoria dos órgãos Zang Fu"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_do_Antigo_Egito",
+    "file": "pt_ancient_egyptian_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine",
+    "h1": "Medicina do Antigo Egito"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_da_Gr%C3%A9cia_Antiga",
+    "file": "pt_ancient_greek_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ancient_Greek_medicine",
+    "h1": "Medicina da Grécia Antiga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_bizantina",
+    "file": "pt_byzantine_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Byzantine_medicine",
+    "h1": "Medicina bizantina"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_na_Roma_Antiga",
+    "file": "pt_medicine_in_ancient_rome",
+    "en_url": "https://en.wikipedia.org/wiki/Medicine_in_ancient_Rome",
+    "h1": "Medicina na Roma Antiga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Muti",
+    "file": "pt_muti",
+    "en_url": "https://en.wikipedia.org/wiki/Muti",
+    "h1": "Muti"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Nganga",
+    "file": "pt_nganga",
+    "en_url": "https://en.wikipedia.org/wiki/Nganga",
+    "h1": "Nganga"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Sangoma",
+    "file": "pt_traditional_healers_of_south_africa",
+    "en_url": "https://en.wikipedia.org/wiki/Traditional_healers_of_South_Africa",
+    "h1": "Sangoma"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_ind%C3%ADgena",
+    "file": "pt_brazilian_traditional_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Brazilian_traditional_medicine",
+    "h1": "Medicina indígena"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cultura_kallawaya",
+    "file": "pt_kallawaya",
+    "en_url": "https://en.wikipedia.org/wiki/Kallawaya",
+    "h1": "Cultura kallawaya"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_medieval",
+    "file": "pt_medieval_medicine_of_western_europe",
+    "en_url": "https://en.wikipedia.org/wiki/Medieval_medicine_of_Western_Europe",
+    "h1": "Medicina medieval"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_alternativa",
+    "file": "pt_alternative_medicine",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "h1": "Medicina alternativa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Etnomedicina",
+    "file": "pt_ethnomedicine",
+    "en_url": "https://en.wikipedia.org/wiki/Ethnomedicine",
+    "h1": "Etnomedicina"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Assist%C3%AAncia_m%C3%A9dica",
+    "file": "pt_health_care",
+    "en_url": "https://en.wikipedia.org/wiki/Health_care",
+    "h1": "Assistência médica"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Humorismo",
+    "file": "pt_humorism",
+    "en_url": "https://en.wikipedia.org/wiki/Humorism",
+    "h1": "Humorismo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_natural",
+    "file": "pt_naturopathy",
+    "en_url": "https://en.wikipedia.org/wiki/Naturopathy",
+    "h1": "Medicina natural"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Xamanismo",
+    "file": "pt_shamanism",
+    "en_url": "https://en.wikipedia.org/wiki/Shamanism",
+    "h1": "Xamanismo"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_absent_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Absent_Healing",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Qi",
+    "file": "pt_chi_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Chi_healing",
+    "h1": "Qi"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Pedra_curativa",
+    "file": "pt_gem_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Gem_healing",
+    "h1": "Pedra curativa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/M%C3%BAsica_das_esferas",
+    "file": "pt_pythagorean_sound_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Pythagorean_sound_healing",
+    "h1": "Música das esferas"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Deepak_Chopra",
+    "file": "pt_quantum_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Quantum_healing",
+    "h1": "Deepak Chopra"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_spiritist_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Spiritist_healing",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_supernatural_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Supernatural_healing",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Cura_pela_f%C3%A9",
+    "file": "pt_vibrational_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Vibrational_healing",
+    "h1": "Cura pela fé"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Medicina_alternativa",
+    "file": "pt_alternative_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Alternative_healing",
+    "h1": "Medicina alternativa"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Ci%C3%AAncia_Crist%C3%A3",
+    "file": "pt_christian_science_healing",
+    "en_url": "https://en.wikipedia.org/wiki/Christian_Science_healing",
+    "h1": "Ciência Cristã"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Bioenergia_(esoterismo)",
+    "file": "pt_energy_esotericism",
+    "en_url": "https://en.wikipedia.org/wiki/Energy_(esotericism)",
+    "h1": "Bioenergia (esoterismo)"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Healing_Revival",
+    "file": "pt_healing_revival",
+    "en_url": "https://en.wikipedia.org/wiki/Healing_Revival",
+    "h1": "Healing Revival"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Imposi%C3%A7%C3%A3o_de_m%C3%A3os",
+    "file": "pt_laying_on_of_hands",
+    "en_url": "https://en.wikipedia.org/wiki/Laying_on_of_hands",
+    "h1": "Imposição de mãos"
+  },
+  {
+    "lang": "pt",
+    "url": "https://pt.wikipedia.org/wiki/Charlatanismo",
+    "file": "pt_quackery",
+    "en_url": "https://en.wikipedia.org/wiki/Quackery",
+    "h1": "Charlatanismo"
+  }
+]
