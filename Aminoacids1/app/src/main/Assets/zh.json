@@ -1,0 +1,156 @@
+[
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B5%84%E6%B0%A8%E9%85%B8",
+    "file": "zh_histidine",
+    "en_url": "https://en.wikipedia.org/wiki/Histidine",
+    "h1": "組氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%B8%99%E6%B0%A8%E9%85%B8",
+    "file": "zh_alanine",
+    "en_url": "https://en.wikipedia.org/wiki/Alanine",
+    "h1": "丙氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%95%B0%E4%BA%AE%E6%B0%A8%E9%85%B8",
+    "file": "zh_isoleucine",
+    "en_url": "https://en.wikipedia.org/wiki/Isoleucine",
+    "h1": "異亮氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B2%BE%E6%B0%A8%E9%85%B8",
+    "file": "zh_arginine",
+    "en_url": "https://en.wikipedia.org/wiki/Arginine",
+    "h1": "精氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%AE%E6%B0%A8%E9%85%B8",
+    "file": "zh_leucine",
+    "en_url": "https://en.wikipedia.org/wiki/Leucine",
+    "h1": "亮氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%86%AC%E6%B0%A8%E9%85%B8",
+    "file": "zh_aspartic_acid",
+    "en_url": "https://en.wikipedia.org/wiki/Aspartic_acid",
+    "h1": "天冬氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9B%A2%E8%83%BA%E9%85%B8",
+    "file": "zh_lysine",
+    "en_url": "https://en.wikipedia.org/wiki/Lysine",
+    "h1": "離胺酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8D%8A%E8%83%B1%E6%B0%A8%E9%85%B8",
+    "file": "zh_cysteine",
+    "en_url": "https://en.wikipedia.org/wiki/Cysteine",
+    "h1": "半胱氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%94%B2%E7%A1%AB%E6%B0%A8%E9%85%B8",
+    "file": "zh_methionine",
+    "en_url": "https://en.wikipedia.org/wiki/Methionine",
+    "h1": "甲硫氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%B0%A8%E9%85%B8",
+    "file": "zh_glutamic_acid",
+    "en_url": "https://en.wikipedia.org/wiki/Glutamic_acid",
+    "h1": "谷氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%8B%AF%E4%B8%99%E6%B0%A8%E9%85%B8",
+    "file": "zh_phenylalanine",
+    "en_url": "https://en.wikipedia.org/wiki/Phenylalanine",
+    "h1": "苯丙氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%B0%A8%E9%86%AF%E8%83%BA",
+    "file": "zh_glutamine",
+    "en_url": "https://en.wikipedia.org/wiki/Glutamine",
+    "h1": "谷氨醯胺"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%98%87%E6%B0%A8%E9%85%B8",
+    "file": "zh_threonine",
+    "en_url": "https://en.wikipedia.org/wiki/Threonine",
+    "h1": "蘇氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%94%98%E6%B0%A8%E9%85%B8",
+    "file": "zh_glycine",
+    "en_url": "https://en.wikipedia.org/wiki/Glycine",
+    "h1": "甘氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%89%B2%E6%B0%A8%E9%85%B8",
+    "file": "zh_tryptophan",
+    "en_url": "https://en.wikipedia.org/wiki/Tryptophan",
+    "h1": "色氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%84%AF%E6%B0%A8%E9%85%B8",
+    "file": "zh_proline",
+    "en_url": "https://en.wikipedia.org/wiki/Proline",
+    "h1": "脯氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%BC%AC%E6%B0%A8%E9%85%B8",
+    "file": "zh_valine",
+    "en_url": "https://en.wikipedia.org/wiki/Valine",
+    "h1": "缬氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B5%B2%E6%B0%A8%E9%85%B8",
+    "file": "zh_serine",
+    "en_url": "https://en.wikipedia.org/wiki/Serine",
+    "h1": "絲氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%85%AA%E6%B0%A8%E9%85%B8",
+    "file": "zh_tyrosine",
+    "en_url": "https://en.wikipedia.org/wiki/Tyrosine",
+    "h1": "酪氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%86%AC%E9%85%B0%E8%83%BA",
+    "file": "zh_asparagine",
+    "en_url": "https://en.wikipedia.org/wiki/Asparagine",
+    "h1": "天冬酰胺"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A1%92%E5%8D%8A%E8%83%B1%E6%B0%A8%E9%85%B8",
+    "file": "zh_selenocysteine",
+    "en_url": "https://en.wikipedia.org/wiki/Selenocysteine",
+    "h1": "硒半胱氨酸"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%90%A1%E5%92%AF%E8%B5%96%E6%B0%A8%E9%85%B8",
+    "file": "zh_pyrrolysine",
+    "en_url": "https://en.wikipedia.org/wiki/Pyrrolysine",
+    "h1": "吡咯赖氨酸"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%B8%D0%B4%D0%B8%D0%BD",
+    "file": "ru_histidine",
+    "en_url": "https://en.wikipedia.org/wiki/Histidine",
+    "h1": "Гистидин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD",
+    "file": "ru_alanine",
+    "en_url": "https://en.wikipedia.org/wiki/Alanine",
+    "h1": "Аланин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9%D1%86%D0%B8%D0%BD",
+    "file": "ru_isoleucine",
+    "en_url": "https://en.wikipedia.org/wiki/Isoleucine",
+    "h1": "Изолейцин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D0%BD",
+    "file": "ru_arginine",
+    "en_url": "https://en.wikipedia.org/wiki/Arginine",
+    "h1": "Аргинин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D1%86%D0%B8%D0%BD",
+    "file": "ru_leucine",
+    "en_url": "https://en.wikipedia.org/wiki/Leucine",
+    "h1": "Лейцин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
+    "file": "ru_aspartic_acid",
+    "en_url": "https://en.wikipedia.org/wiki/Aspartic_acid",
+    "h1": "Аспарагиновая кислота"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B7%D0%B8%D0%BD",
+    "file": "ru_lysine",
+    "en_url": "https://en.wikipedia.org/wiki/Lysine",
+    "h1": "Лизин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD",
+    "file": "ru_cysteine",
+    "en_url": "https://en.wikipedia.org/wiki/Cysteine",
+    "h1": "Цистеин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BE%D0%BD%D0%B8%D0%BD",
+    "file": "ru_methionine",
+    "en_url": "https://en.wikipedia.org/wiki/Methionine",
+    "h1": "Метионин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
+    "file": "ru_glutamic_acid",
+    "en_url": "https://en.wikipedia.org/wiki/Glutamic_acid",
+    "h1": "Глутаминовая кислота"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BD%D0%B8%D0%BB%D0%B0%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD",
+    "file": "ru_phenylalanine",
+    "en_url": "https://en.wikipedia.org/wiki/Phenylalanine",
+    "h1": "Фенилаланин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%82%D0%B0%D0%BC%D0%B8%D0%BD",
+    "file": "ru_glutamine",
+    "en_url": "https://en.wikipedia.org/wiki/Glutamine",
+    "h1": "Глутамин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%BE%D0%BD%D0%B8%D0%BD",
+    "file": "ru_threonine",
+    "en_url": "https://en.wikipedia.org/wiki/Threonine",
+    "h1": "Треонин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B8%D0%BD",
+    "file": "ru_glycine",
+    "en_url": "https://en.wikipedia.org/wiki/Glycine",
+    "h1": "Глицин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%84%D0%B0%D0%BD",
+    "file": "ru_tryptophan",
+    "en_url": "https://en.wikipedia.org/wiki/Tryptophan",
+    "h1": "Триптофан"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%BD",
+    "file": "ru_proline",
+    "en_url": "https://en.wikipedia.org/wiki/Proline",
+    "h1": "Пролин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B8%D0%BD",
+    "file": "ru_valine",
+    "en_url": "https://en.wikipedia.org/wiki/Valine",
+    "h1": "Валин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B8%D0%BD",
+    "file": "ru_serine",
+    "en_url": "https://en.wikipedia.org/wiki/Serine",
+    "h1": "Серин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%BE%D0%B7%D0%B8%D0%BD",
+    "file": "ru_tyrosine",
+    "en_url": "https://en.wikipedia.org/wiki/Tyrosine",
+    "h1": "Тирозин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%B8%D0%BD",
+    "file": "ru_asparagine",
+    "en_url": "https://en.wikipedia.org/wiki/Asparagine",
+    "h1": "Аспарагин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D1%86%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD",
+    "file": "ru_selenocysteine",
+    "en_url": "https://en.wikipedia.org/wiki/Selenocysteine",
+    "h1": "Селеноцистеин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D1%80%D0%BE%D0%BB%D0%B8%D0%B7%D0%B8%D0%BD",
+    "file": "ru_pyrrolysine",
+    "en_url": "https://en.wikipedia.org/wiki/Pyrrolysine",
+    "h1": "Пирролизин"
+  }
+]

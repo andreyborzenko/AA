@@ -1,0 +1,139 @@
+<resources>
+
+
+
+
+                    <string name="app_name">
+Аминокислоты     </string>
+
+                   <string name="discover">
+Изучение    </string>
+
+
+                   <string name="tests">
+Тесты     </string>
+
+                   <string name="flashcards">
+Карточки     </string>
+
+                   <string name="settings">
+Настройки     </string>
+
+                       <string name="typeToSearch">
+Поиск     </string>
+
+                           <string name="choosetest">
+Выберите Тест         </string>
+
+
+                       <string name="guessformula">
+Угадайте Формулу         </string>
+
+                           <string name="guessname">
+Угадайте Название         </string>
+
+                           <string name="guesscode">
+Угадайте код          </string>
+
+                               <string name="question">
+Вопрос          </string>
+
+                                   <string name="card">
+Карточка         </string>
+
+                                   <string name="showCard">
+Показать Карточку         </string>
+
+                                       <string name="nextCard">
+Следующая Карточка          </string>
+
+                                            <string name="sound">
+Звук                    </string>
+
+                                                <string name="language">
+Язык               </string>
+
+                                                <string name="eraseprogress">
+Сбросить прогресс              </string>
+
+                                                <string name="challenge">
+Челлендж               </string>
+
+
+
+
+                   <string name="ala">
+Аланин    </string>
+               <string name="arg">
+Аргинин     </string>
+               <string name="asn">
+Аспарагин       </string>
+               <string name="asp">
+аспарагиновая кислота          </string>
+               <string name="cys">
+цистеин     </string>
+               <string name="gln">
+Глутамин      </string>
+               <string name="glu">
+глютаминовая кислота          </string>
+               <string name="gly">
+глицин    </string>
+               <string name="his">
+Гистидин      </string>
+               <string name="ile">
+Изолейцин       </string>
+               <string name="leu">
+Лейцин    </string>
+               <string name="lys">
+Лизин   </string>
+               <string name="met">
+Метионин       </string>
+               <string name="phe">
+Фенилаланин          </string>
+               <string name="pro">
+Пролин    </string>
+               <string name="ser">
+Серин   </string>
+               <string name="thr">
+Треонин      </string>
+               <string name="trp">
+Триптофан       </string>
+               <string name="tyr">
+Тирозин     </string>
+               <string name="val">
+Валин   </string>
+
+
+
+
+
+
+
+    <string-array name="aminocodes">
+        <item>ala</item>
+        <item>arg</item>
+        <item>asn</item>
+        <item>asp</item>
+        <item>cys</item>
+        <item>gln</item>
+        <item>glu</item>
+        <item>gly</item>
+        <item>his</item>
+        <item>ile</item>
+        <item>leu</item>
+        <item>lys</item>
+        <item>met</item>
+        <item>phe</item>
+        <item>pro</item>
+        <item>ser</item>
+        <item>thr</item>
+        <item>trp</item>
+        <item>tyr</item>
+        <item>val</item>
+
+    </string-array>
+
+
+
+
+</resources>

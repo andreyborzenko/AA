@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:paddingBottom="0dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/shtick"
+        android:orientation="horizontal">
+        </LinearLayout>
+
+
+    <LinearLayout
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="andy.mentaldisorders.MainActivity"
+        tools:showIn="@layout/activity_main"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+
+        android:layout_marginTop="55dp"
+        android:layout_height="match_parent"
+        android:weightSum="10"
+
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+
+            android:inputType="textPersonName"
+            android:hint="@string/typeToSearch"
+            android:id="@+id/editText" />
+
+        <ListView
+            android:layout_height="0dp"
+            android:layout_weight="10"
+
+            android:listSelector="@android:color/transparent"
+
+            android:layout_width="match_parent"
+            android:id="@+id/mainListView1"
+            android:paddingBottom="50dp"
+            >
+
+        </ListView>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal|bottom"
+        android:id="@+id/reLay"
+        android:layout_height="wrap_content"
+        >
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="@color/colorPrimary"
+
+
+        >
+
+        <ImageButton
+            android:background="@drawable/return1"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="12dp"
+            android:id="@+id/sett"
+            android:layout_gravity="center_vertical"
+            />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+
+
+        <TextView
+            android:text="@string/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="58dp"
+            android:textColor="#ffffff"
+            android:id="@+id/size2"
+            android:textSize="21dp"
+            android:gravity="center_vertical"
+
+            android:textAlignment="center"/>
+
+
+
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:background="@android:color/transparent"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/sort"
+            android:layout_marginRight="2dp"
+            android:layout_gravity="center_vertical"
+
+            />
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

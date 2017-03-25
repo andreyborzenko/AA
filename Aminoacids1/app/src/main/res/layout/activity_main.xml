@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="5dp"
+    tools:context="app.andy.aminoacids1.MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="10"
+    android:background="@drawable/aminobackgroundbw"
+>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="8.5"
+        android:weightSum="100"
+        android:gravity="center">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="14"
+            android:orientation="vertical"
+            android:gravity="bottom">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textColor="#222222"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="86"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:weightSum="1"
+
+
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center">
+
+        <FrameLayout
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            >
+
+
+
+
+            <ImageButton
+                android:layout_width="155dp"
+                android:layout_height="match_parent"
+                android:id="@+id/learn"
+                android:background="@drawable/discovery"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="@string/discover"
+                android:textAlignment="center"
+                />
+
+        </FrameLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="0.5">
+
+        <FrameLayout
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+>
+
+
+
+            <ImageButton
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:id="@+id/testa"
+            android:background="@drawable/tests"
+
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="@string/tests"
+                android:textAlignment="center"
+
+                />
+        </FrameLayout>
+
+
+        </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:weightSum="1"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center">
+
+        <FrameLayout
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            >
+
+
+        <ImageButton
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:id="@+id/flash"
+            android:background="@drawable/flashcards"  />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="@string/flashcards"
+                android:textAlignment="center"
+
+                />
+
+
+        </FrameLayout>
+
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center">
+
+        <FrameLayout
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+>
+
+
+
+        <ImageButton
+            android:layout_width="155dp"
+            android:layout_height="match_parent"
+            android:id="@+id/settings"
+            android:background="@drawable/settings"
+
+            />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="@string/settings"
+                android:textAlignment="center"
+
+                />
+        </FrameLayout>
+
+            </LinearLayout>
+    </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="horizontal"
+    android:layout_weight="1.5"
+
+    android:gravity="center">
+
+        <RelativeLayout
+            android:layout_width="320dp"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:id="@+id/relayMain"
+
+            >
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

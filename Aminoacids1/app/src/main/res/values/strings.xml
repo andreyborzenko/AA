@@ -1,0 +1,142 @@
+<resources>
+
+
+
+
+                    <string name="app_name">
+Aminoacids          </string>
+
+                    <string name="discover">
+Discover           </string>
+
+
+                    <string name="tests">
+ Tests              </string>
+
+                    <string name="flashcards">
+ Flashcards         </string>
+
+                    <string name="settings">
+ Settings           </string>
+
+                        <string name="typeToSearch">
+Search              </string>
+
+                            <string name="choosetest">
+Choose Test              </string>
+
+
+                        <string name="guessformula">
+Guess Formula           </string>
+
+                            <string name="guessname">
+Guess Name              </string>
+
+                            <string name="guesscode">
+Guess Code               </string>
+
+                                <string name="question">
+Question                 </string>
+
+                                    <string name="card">
+Card                    </string>
+
+                                    <string name="showCard">
+Show the Card           </string>
+
+                                        <string name="nextCard">
+Next Card                </string>
+
+                                            <string name="sound">
+Sound                    </string>
+
+                                                <string name="language">
+Language               </string>
+
+                                                <string name="eraseprogress">
+Reset Progress               </string>
+
+                                                <string name="challenge">
+Challenge               </string>
+
+
+
+
+
+
+
+                <string name="ala">
+alanine            </string>
+                <string name="arg">
+arginine            </string>
+                <string name="asn">
+asparagine            </string>
+                <string name="asp">
+aspartic acid            </string>
+                <string name="cys">
+cysteine            </string>
+                <string name="gln">
+glutamine            </string>
+                <string name="glu">
+glutamic acid            </string>
+                <string name="gly">
+glycine            </string>
+                <string name="his">
+histidine            </string>
+                <string name="ile">
+isoleucine            </string>
+                <string name="leu">
+leucine            </string>
+                <string name="lys">
+lysine            </string>
+                <string name="met">
+methionine            </string>
+                <string name="phe">
+phenylalanine            </string>
+                <string name="pro">
+proline            </string>
+                <string name="ser">
+serine            </string>
+                <string name="thr">
+threonine            </string>
+                <string name="trp">
+tryptophan            </string>
+                <string name="tyr">
+tyrosine            </string>
+                <string name="val">
+valine            </string>
+
+
+
+
+
+
+
+<string-array name="aminocodes">
+    <item>ala</item>
+    <item>arg</item>
+    <item>asn</item>
+    <item>asp</item>
+    <item>cys</item>
+    <item>gln</item>
+    <item>glu</item>
+    <item>gly</item>
+    <item>his</item>
+    <item>ile</item>
+    <item>leu</item>
+    <item>lys</item>
+    <item>met</item>
+    <item>phe</item>
+    <item>pro</item>
+    <item>ser</item>
+    <item>thr</item>
+    <item>trp</item>
+    <item>tyr</item>
+    <item>val</item>
+
+</string-array>
+
+
+
+
+</resources>

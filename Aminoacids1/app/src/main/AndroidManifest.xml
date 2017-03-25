@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.andy.aminoacids1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:name=".LocaleApplication"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:configChanges="locale"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:configChanges="locale">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ActivityLearning"
+            android:configChanges="locale"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden"/>
+
+        <activity
+            android:name=".ActivityPage1"
+            android:configChanges="locale"
+            />
+        <activity
+            android:name=".ActivityTests"
+            android:configChanges="locale"
+            >
+
+
+
+        </activity>
+
+
+        <activity
+            android:name=".ActivityGuessCode"
+            android:configChanges="locale"
+            >
+
+        </activity>
+        <activity
+            android:name=".ActivityGuessName"
+            android:configChanges="locale"
+            >
+
+        </activity>
+        <activity
+        android:name=".ActivityGuessFormula"
+            android:configChanges="locale"
+            >
+
+    </activity>
+
+        <activity
+            android:name=".ActivityFlashCards"
+            android:configChanges="locale"
+            >
+
+        </activity>
+
+        <activity
+            android:name=".ActivitySettings"
+            android:configChanges="locale"
+            >
+
+        </activity>
+
+        <activity
+            android:name=".ActivityLanguage"
+            android:configChanges="locale"
+            >
+
+        </activity>
+    </application>
+
+</manifest>
